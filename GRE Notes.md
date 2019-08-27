@@ -165,16 +165,17 @@
 
 # Similar or analogous
 
-| word1    | word2    |
-| -------- | -------- |
-| violate  | violence |
-| abound   | about    |
-| converge | convert  |
-| secret   | secrete  |
-| forge    | forage   |
-| deduce   | reduce   |
-| asset    | assert   |
-|          |          |
+| word1    | word2      |
+| -------- | ---------- |
+| violate  | violence   |
+| abound   | about      |
+| converge | convert    |
+| secret   | secrete    |
+| forge    | forage     |
+| deduce   | reduce     |
+| asset    | assert     |
+| surprise | suppressed |
+|          |            |
 
 
 
@@ -260,27 +261,27 @@ Q4：在第3个25%的位置上，即在100%的位置上 = 最大值。
 
 # Biological Term
 
-| Word           | Chinese        | Note            |
-| -------------- | -------------- | --------------- |
-| calories       | 卡路里         |                 |
-| protein        | 蛋白质         |                 |
-| cholesterol    | 胆固醇         |                 |
-| metabolism     | 新陈代谢       | metabolic(adj.) |
-| molecule       | 分子           |                 |
-| photosynthesis | 光合作用       | synthesis 合成  |
-| pollen         | 花粉           | pollinate授粉   |
-| glucose        | 葡萄糖         |                 |
-| adrenaline     | 肾上腺素       |                 |
-| fungus         | 真菌           |                 |
-| immune         | 免疫           |                 |
-| larva          | 幼虫           |                 |
-| peptide        | 肽             |                 |
-| gland          | 腺体           |                 |
-| cerebral       | 大脑的，理智的 |                 |
-| mite           | 螨虫           |                 |
-|                |                |                 |
-|                |                |                 |
-|                |                |                 |
+| Word           | Chinese        | Note                            |
+| -------------- | -------------- | ------------------------------- |
+| calories       | 卡路里         |                                 |
+| protein        | 蛋白质         |                                 |
+| cholesterol    | 胆固醇         |                                 |
+| metabolism     | 新陈代谢       | metabolic(adj.)                 |
+| molecule       | 分子           |                                 |
+| photosynthesis | 光合作用n.     | synthesis n.合成  synthesize v. |
+| pollen         | 花粉           | pollinate授粉                   |
+| glucose        | 葡萄糖         |                                 |
+| adrenaline     | 肾上腺素       |                                 |
+| fungus         | 真菌           |                                 |
+| immune         | 免疫           |                                 |
+| larva          | 幼虫           |                                 |
+| peptide        | 肽             |                                 |
+| gland          | 腺体           |                                 |
+| cerebral       | 大脑的，理智的 |                                 |
+| mite           | 螨虫           |                                 |
+| vaccine        | 疫苗           |                                 |
+| avain flu      | 禽流感         |                                 |
+|                |                |                                 |
 
 ## Anamal and Plants
 
@@ -311,6 +312,8 @@ Q4：在第3个25%的位置上，即在100%的位置上 = 最大值。
 | realm        | 领域        | academic realm      |
 | corona       | 日冕，光环  |                     |
 | lever        | 杠杆        |                     |
+| transparent  | 透明的      |                     |
+|              |             |                     |
 |              |             |                     |
 
 
@@ -384,20 +387,124 @@ interminable 无尽的
 precarious 危险的  <=> secure 安全的
 ```
 
+```markdown
+fellow 		同事
+reluctant to articulate	很勉强（不愿意）去清楚表达
+conscience 	良心的
+artistic posture	“艺术家”姿态
+substantiate 证实  <=>  overlook 忽视  <=>  undermines 破坏
 ```
-precarious 危险的  <=> secure 安全的
-fellow 同事
-reluctant 勉强的
-articulate 清楚表达
-conscience 良心的
-posture 作出...姿态
+
+```
+bungling	拙劣的工作
+thwart		反对
 ```
 
+```
+obstacle	障碍物
+hindrance	阻力
+snare		圈套
+```
 
+```
+ascent		上升
+attain		达到
+prominence	声望
+```
 
-- precarious 危险的  <=> secure 安全的
-- fellow 同事
-- reluctant 勉强的
-- articulate 清楚表达
-- conscience 良心的
-- posture 作出...姿态
+```
+provoke discussion	引起讨论
+```
+
+```
+The detective's conviction that there were few inept crimes in her district led her to impute some degree of ____ to every suspect she studied.
+
+conviction	确信n.
+inept		不恰当的(笨的)  inept crimes笨案件
+impute		归咎于
+acumen		聪明n.	✔
+shrewdness	机灵n.	✔
+deceti		欺骗
+duplicity	表里不一
+evasive		逃避的adj.
+equivocate	用模棱两可的话隐瞒真相
+```
+
+```
+The author presents the life of Grey with ____ unusual in a biographer: he is not even convinced that Grey was a good writer.
+
+detachment	中立的		✔
+```
+
+```
+amateur		业余的
+diversity	多样化
+monotony	千篇一律
+refinement	改良（优雅动作）
+economies of scale	规模经济
+```
+
+```
+Because we assume the preeminence of natural design, nature can often beguile us.
+
+preeminence	杰出n.
+beguile		欺骗，使陶醉
+```
+
+```
+marine		海生的  marine mammals海洋哺乳动物
+discern		识别
+```
+
+```
+blend		混合  blending of ideas 想法的融合
+discipline	训练n. v.  学科
+domain		领域，产业，域名
+interwoven	交织   <= woven <= weave编织
+```
+
+```
+She refused to ____ her responsibilities as an author ...
+
+neglect		疏忽
+shirk		逃避
+```
+
+**注意while 有  though 的意思**
+
+```
+... while some of these changes might be ___, many could be downright disruptive
+此处 while A, B 的意思是：虽然A，但是B，可以理解为though
+
+downright disruptive	彻底 颠覆的
+catastrophic	灾难性的
+calamitous		悲惨的
+```
+
+```
+The footage of the documatary is seemed to be deliberately ____.
+
+censor		删掉，审查
+suppress	镇压（隐瞒）
+```
+
+```
+He loathed the party, but is seemed ____ to say so publicly.
+
+loath		勉强（不愿意） = loth
+loathe		厌恶v. 极度不喜欢
+tactless	不机智的  tact 机智老练n.
+impolitic	失策的
+```
+
+```
+pest		害虫
+invading species	入侵生物
+```
+
+```
+stringent	严格
+procedure	流程
+inspection	检查
+```
+
