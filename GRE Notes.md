@@ -2,6 +2,76 @@
 
 # Polysemy
 
+
+- **acute**
+  
+  ```
+  adj. 敏锐的，有洞察力的 keen
+  adj. 严重的
+  adj. 强烈的，急性的, severe, intense
+  ```
+  
+- **belie**
+  
+  ```
+  be- 加强前缀
+  v. 证明...错误  belie his testimony（证明它的证词错误）
+  v. 掩饰
+  v. 与...不符  her hobbies belie her powerful position(爱好与地位不符)
+  ```
+  
+- **compound**
+
+  ```
+  n. 混合物
+  v. 混合
+  v. 加剧，恶化
+  ```
+  
+- **concrete**
+
+  ```
+  n. 水泥
+  adj. 具体的
+  ```
+
+- **confound**
+
+  ```
+  v. 使困惑
+  v. 证明...有误
+  ```
+  
+- **economy**
+
+  ```
+  n. 经济
+  n. 节约
+  adj. 节约的
+  ```
+  
+- **elusive**
+
+  ```
+  adj. 回避的，逃避的
+  adj. 含糊其辞的
+  ```
+  
+- **emulate**
+
+  ```
+  v. 模仿
+  v. 努力赶超
+  ```
+
+- **exploit**
+
+  ```
+  v. 开发利用
+  v. 剥削
+  n. 英勇行为
+  ```
+  
 - **fashion**
 
   ```
@@ -10,49 +80,11 @@
   v. 制作
   ```
 
-- **involved**
+- **gravity**
 
   ```
-  adj. 难懂的
-  adj. 包含的
-  ```
-
-- **resolve**
-
-  ```
-  v. 解决
-  n. 决心
-  ```
-
-- **plausible**
-
-  ```
-  adj. 合理的可信的
-  adj. 似是而非的  plausible talk 花言巧语
-  ```
-
-- **compound**
-
-  ```
-  n. 混合物
-  v. 混合
-  v. 加剧，恶化
-  ```
-
-- **manner**
-
-  ```
-  n. 方式
-  n. 态度
-  n. 举止
-  ```
-
-- **economy**
-
-  ```
-  n. 经济
-  n. 节约
-  adj. 节约的
+  n. 严肃庄重
+  n. 地心引力
   ```
 
 - **integrity**
@@ -62,46 +94,127 @@
   n. 正直
   ```
 
+- **involved**
+
+  ```
+  adj. 难懂的
+  adj. 包含的
+  ```
   
+- **manner**
 
-- 
+  ```
+  n. 方式
+  n. 态度
+  n. 举止
+  ```
+  
+- **meet**
 
+  ```
+  v. 见面
+  v. 满足
+  n. 会议
+  adj. 适当的
+  ```
+  
+- **plausible**
 
+  ```
+  adj. 合理的可信的
+  adj. 似是而非的  plausible talk 花言巧语
+  ```
+
+- **prompt**
+
+  ```
+  v. 促使，推动
+  n. 提示
+  adj. 迅捷的
+  ```
+
+- **relieve**
+
+  ```
+  n. 宽慰
+  n. 浮雕
+  ```
+
+- **resolve**
+
+  ```
+  v. 解决
+  n. 决心
+  ```
+
+- **shed**
+
+  ```
+  v. 脱落
+  v. 投射，发光
+  n. 小屋
+  ```
+  
+- **stem**
+
+  ```
+  v. 阻止，抑制
+  v. 来源于
+  n. 主茎
+  ```
 
 # Similar or analogous
 
-| word1   | word2    |
-| ------- | -------- |
-| violate | violence |
-|         |          |
-|         |          |
+| word1    | word2    |
+| -------- | -------- |
+| violate  | violence |
+| abound   | about    |
+| converge | convert  |
+| secret   | secrete  |
+| forge    | forage   |
+| deduce   | reduce   |
+| asset    | assert   |
+|          |          |
 
 
 
 # Math Term
 
-| Term               | Chinese    | Equation |
-| ------------------ | ---------- | -------- |
-| **Operator**       | **运算**   |          |
-| product            | 乘积       |          |
-|                    |            |          |
-| **Geometric**      | **集合**   |          |
-| perimeter          | 周长       |          |
-| plane              | 平面       |          |
-|                    |            |          |
-| **Noun**           |            |          |
-| odd number         | 奇数       |          |
-| even number        | 偶数       |          |
-| remainder          | 余数       |          |
-|                    |            |          |
-| **Statics**        | 统计       |          |
-| standard deviation | 标准差     |          |
-| median             | 中位数     |          |
-| arithmetic mean    | 算数平均值 |          |
-| ratio              | 比例       |          |
-|                    |            |          |
-|                    |            |          |
-|                    |            |          |
+| Term                | Chinese    | Equation      |
+| ------------------- | ---------- | ------------- |
+| **Operator**        | **运算**   |               |
+| product             | 乘积       |               |
+| minus               | 减         |               |
+|                     |            |               |
+| **Geometric**       | **集合**   |               |
+| perimeter           | 周长       |               |
+| plane               | 平面       |               |
+| prependicular       | 垂直的     |               |
+| tangent             | 相切的     |               |
+| slope               | 斜率，斜坡 |               |
+| cylinder            | 柱状       |               |
+| cone                | 锥         | ciecle cone圆 |
+|                     |            |               |
+|                     |            |               |
+| **Noun**            |            |               |
+| odd number          | 奇数       |               |
+| even number         | 偶数       |               |
+| remainder           | 余数       |               |
+|                     |            |               |
+| **Statics**         | 统计       |               |
+| standard deviation  | 标准差     |               |
+| median              | 中位数     |               |
+| arithmetic mean     | 算数平均值 |               |
+| ratio               | 比例       |               |
+|                     |            |               |
+| **other**           |            |               |
+| constant            | 不变的     |               |
+| in checking account | 支票账户   |               |
+| expense             | 开支       |               |
+| asset               | 资产       |               |
+| down payment        | 首付       |               |
+| fraction            | 部分       |               |
+| mutually            | 互相地     |               |
 
 ## Boxplot
 
@@ -127,54 +240,95 @@ Q4：在第3个25%的位置上，即在100%的位置上 = 最大值。
 
 # Chemistry Term
 
-| Word        | Formula(Symbol) | Note |
-| ----------- | --------------- | ---- |
-| nitrogen    | N               |      |
-| oxygen      | O               |      |
-| molecule    | 分子            |      |
-| ozone       | 臭氧            |      |
-| refrigerant | 制冷剂          |      |
-| bronze      | 青铜            |      |
-| alloy       | 合金            |      |
-|             |                 |      |
-|             |                 |      |
+| Word        | Formula(Symbol) | Note                          |
+| ----------- | --------------- | ----------------------------- |
+| nitrogen    | N               |                               |
+| oxygen      | O               |                               |
+| aluminum    | Al              |                               |
+| bauxite     | 铝土矿          |                               |
+| molecule    | 分子            |                               |
+| ozone       | 臭氧            |                               |
+| refrigerant | 制冷剂          |                               |
+| bronze      | 青铜            |                               |
+| alloy       | 合金            |                               |
+| crystalline | 晶体的          | crystalline structure晶体结构 |
+| isotope     | 同位素          |                               |
+|             |                 |                               |
+|             |                 |                               |
 
 
 
 # Biological Term
 
-| Word           | Chinese  | Note            |
-| -------------- | -------- | --------------- |
-| calories       | 卡路里   |                 |
-| protein        | 蛋白质   |                 |
-| cholesterol    | 胆固醇   |                 |
-| metabolism     | 新陈代谢 | metabolic(adj.) |
-| molecule       | 分子     |                 |
-| photosynthesis | 光合作用 | synthesis 合成  |
-| pollen         | 花粉     | pollinate授粉   |
-| glucose        | 葡萄糖   |                 |
-| adrenaline     | 肾上腺素 |                 |
-| fungus         | 真菌     |                 |
-| immune         | 免疫     |                 |
-| larva          | 幼虫     |                 |
-|                |          |                 |
-|                |          |                 |
+| Word           | Chinese        | Note            |
+| -------------- | -------------- | --------------- |
+| calories       | 卡路里         |                 |
+| protein        | 蛋白质         |                 |
+| cholesterol    | 胆固醇         |                 |
+| metabolism     | 新陈代谢       | metabolic(adj.) |
+| molecule       | 分子           |                 |
+| photosynthesis | 光合作用       | synthesis 合成  |
+| pollen         | 花粉           | pollinate授粉   |
+| glucose        | 葡萄糖         |                 |
+| adrenaline     | 肾上腺素       |                 |
+| fungus         | 真菌           |                 |
+| immune         | 免疫           |                 |
+| larva          | 幼虫           |                 |
+| peptide        | 肽             |                 |
+| gland          | 腺体           |                 |
+| cerebral       | 大脑的，理智的 |                 |
+| mite           | 螨虫           |                 |
+|                |                |                 |
+|                |                |                 |
+|                |                |                 |
+
+## Anamal and Plants
+
+| Word    | Chinese | Note |
+| ------- | ------- | ---- |
+| aspen   | 白杨树  |      |
+| oak     | 橡树    |      |
+| conifer | 针叶树  |      |
+|         |         |      |
+|         |         |      |
+|         |         |      |
 
 
 
-# Other Professional term
+# Other jargon
 
-| Word        | Chinese     | note |
-| ----------- | ----------- | ---- |
-| terrestrial | adj. 陆地的 |      |
-| archaeology | 考古学      |      |
-|             |             |      |
-|             |             |      |
-|             |             |      |
+| Word         | Chinese     | note                |
+| ------------ | ----------- | ------------------- |
+| terrestrial  | adj. 陆地的 |                     |
+| archaeology  | 考古学      |                     |
+| epistemology | 认识论      |                     |
+| thermal      | 热量的      | thermal energy 热能 |
+| stratosphere | 平流层      |                     |
+| velocity     | 速度        |                     |
+| meteorite    | 陨石        |                     |
+| seismic      | 地震的      | seismology地震学    |
+| nebular      | 星云        |                     |
+| realm        | 领域        | academic realm      |
+| corona       | 日冕，光环  |                     |
+| lever        | 杠杆        |                     |
+|              |             |                     |
 
 
 
-# Words from reading
+# Affirmation and negation
+
+## affirmative
+
+- 
+
+## negative
+
+- pessimistic 悲观的
+- 
+
+
+
+# Words from word book
 
 | Word             | Part of Speech | English Meaning                                         | Dictionary                                                   | Chinese          | Example                                                      |
 | ---------------- | -------------- | ------------------------------------------------------- | ------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ |
@@ -215,3 +369,35 @@ Q4：在第3个25%的位置上，即在100%的位置上 = 最大值。
 |                  |                |                                                         |                                                              |                  |                                                              |
 |                  |                |                                                         |                                                              |                  |                                                              |
 
+# Notes for Verbal
+
+### 8.27
+
+```
+obscuring 模糊的
+incompatible 不兼容的
+sympathetic  同情的
+interminable 无尽的
+```
+
+```
+precarious 危险的  <=> secure 安全的
+```
+
+```
+precarious 危险的  <=> secure 安全的
+fellow 同事
+reluctant 勉强的
+articulate 清楚表达
+conscience 良心的
+posture 作出...姿态
+```
+
+
+
+- precarious 危险的  <=> secure 安全的
+- fellow 同事
+- reluctant 勉强的
+- articulate 清楚表达
+- conscience 良心的
+- posture 作出...姿态
