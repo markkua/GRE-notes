@@ -42,6 +42,21 @@
   v. 证明...有误
   ```
   
+- **counter**
+
+  ```
+  n. 柜台
+  v. 反驳
+  ```
+
+- **discharge**
+
+  ```
+  v. 释放
+  v. 履行（职责）
+  v. 解雇
+  ```
+
 - **economy**
 
   ```
@@ -85,6 +100,13 @@
   ```
   n. 严肃庄重
   n. 地心引力
+  ```
+
+- **instrumental**
+
+  ```
+  adj. 乐器的
+  adj. 有益的
   ```
 
 - **integrity**
@@ -147,6 +169,14 @@
   n. 决心
   ```
 
+- **secure**
+
+  ```
+  adj.安全的
+  v. 	使安全
+  v.	把...弄到手
+  ```
+
 - **shed**
 
   ```
@@ -165,17 +195,20 @@
 
 # Similar or analogous
 
-| word1    | word2      |
-| -------- | ---------- |
-| violate  | violence   |
-| abound   | about      |
-| converge | convert    |
-| secret   | secrete    |
-| forge    | forage     |
-| deduce   | reduce     |
-| asset    | assert     |
-| surprise | suppressed |
-|          |            |
+| word1    | word2         |
+| -------- | ------------- |
+| violate  | violence      |
+| abound   | about         |
+| converge | convert       |
+| secret   | secrete       |
+| forge    | forage        |
+| deduce   | reduce        |
+| asset    | assert        |
+| surprise | suppressed    |
+| defer    | deter, deduce |
+| odd      | odds          |
+| annul    | annual        |
+|          |               |
 
 
 
@@ -201,6 +234,7 @@
 | odd number          | 奇数       |               |
 | even number         | 偶数       |               |
 | remainder           | 余数       |               |
+| phase               | 相位       |               |
 |                     |            |               |
 | **Statics**         | 统计       |               |
 | standard deviation  | 标准差     |               |
@@ -246,6 +280,7 @@ Q4：在第3个25%的位置上，即在100%的位置上 = 最大值。
 | nitrogen    | N               |                               |
 | oxygen      | O               |                               |
 | aluminum    | Al              |                               |
+| alumina     | Al2O3           | 氧化铝                        |
 | bauxite     | 铝土矿          |                               |
 | molecule    | 分子            |                               |
 | ozone       | 臭氧            |                               |
@@ -303,6 +338,7 @@ Q4：在第3个25%的位置上，即在100%的位置上 = 最大值。
 | terrestrial  | adj. 陆地的 |                     |
 | archaeology  | 考古学      |                     |
 | epistemology | 认识论      |                     |
+| hydrologic   | 水文学      |                     |
 | thermal      | 热量的      | thermal energy 热能 |
 | stratosphere | 平流层      |                     |
 | velocity     | 速度        |                     |
@@ -318,16 +354,30 @@ Q4：在第3个25%的位置上，即在100%的位置上 = 最大值。
 
 
 
-# Affirmation and negation
+# Synonym
 
-## affirmative
+### Adjective
+
+- affirmative
+  - 
+- negative
+  - pessimistic 悲观的
+- everywhere
+  - **ubiquitous**
+  - pervasive
+  - universal
+
+### Noun
 
 - 
 
-## negative
+### Verb
 
-- pessimistic 悲观的
-- 
+- annul
+  - neutralize
+  - invalidate
+  - negate
+  - nullify
 
 
 
