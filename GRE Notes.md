@@ -20,6 +20,13 @@
   v. 与...不符  her hobbies belie her powerful position(爱好与地位不符)
   ```
   
+- **commit**
+
+  ```
+  v. 承诺
+  v. 交付
+  ```
+  
 - **compound**
 
   ```
@@ -95,6 +102,13 @@
   v. 制作
   ```
 
+- **frivolous**
+
+  ```
+  adj. 不重要的
+  adj. 轻佻的 frivolous coquette(轻佻的荡妇)
+  ```
+
 - **gravity**
 
   ```
@@ -140,6 +154,13 @@
   adj. 适当的
   ```
   
+- **murky**
+
+   ```
+   adj. 昏暗的
+   adj. 难懂的
+   ```
+
 - **plausible**
 
   ```
@@ -153,6 +174,13 @@
   v. 促使，推动
   n. 提示
   adj. 迅捷的
+  ```
+
+- **qualify**
+
+  ```
+  v. 限定
+  v. 使合格
   ```
 
 - **relieve**
@@ -192,55 +220,82 @@
   v. 来源于
   n. 主茎
   ```
+  
+- **strip**
+
+  ```
+  v.	剥去
+  n.	连环画
+  ```
+
+  
 
 # Similar or analogous
 
-| word1    | word2         |
-| -------- | ------------- |
-| violate  | violence      |
-| abound   | about         |
-| converge | convert       |
-| secret   | secrete       |
-| forge    | forage        |
-| deduce   | reduce        |
-| asset    | assert        |
-| surprise | suppressed    |
-| defer    | deter, deduce |
-| odd      | odds          |
-| annul    | annual        |
-|          |               |
+| word1                | word2         |
+| -------------------- | ------------- |
+| violate              | violence      |
+| abound               | about         |
+| converge             | convert       |
+| secret               | secrete       |
+| forge                | forage        |
+| deduce               | reduce        |
+| asset                | assert        |
+| surprise             | suppressed    |
+| defer, deter, deduce |               |
+| odd                  | odds          |
+| annul                | annual        |
+| condemn              | condone       |
+| heroin               | heroic        |
+| comprehensive        | comprehension |
+| abroad               | aboard        |
+| confound             | profound      |
+| refuse               | refute        |
+| perilous             | parallel      |
+| confer               | defer         |
+| improvise            | improvement   |
+| eschew               | shrewd        |
 
 
 
-# Math Term
+# Math
+
+## Math Term
 
 | Term                | Chinese    | Equation      |
 | ------------------- | ---------- | ------------- |
 | **Operator**        | **运算**   |               |
 | product             | 乘积       |               |
 | minus               | 减         |               |
+| prime factor        | 质因子     |               |
 |                     |            |               |
 | **Geometric**       | **集合**   |               |
 | perimeter           | 周长       |               |
 | plane               | 平面       |               |
-| prependicular       | 垂直的     |               |
+| parallel            | 平行的     |               |
+| perpendicular       | 垂直的     |               |
 | tangent             | 相切的     |               |
+| inscribed           | 内接于     |               |
 | slope               | 斜率，斜坡 |               |
 | cylinder            | 柱状       |               |
-| cone                | 锥         | ciecle cone圆 |
-|                     |            |               |
+| cone                | 锥         | circle cone圆 |
+| diagonal            | 对角的     |               |
+| adjacent            | 相邻的     |               |
+| vertex              | 顶点       | 复数vertices  |
 |                     |            |               |
 | **Noun**            |            |               |
 | odd number          | 奇数       |               |
 | even number         | 偶数       |               |
 | remainder           | 余数       |               |
 | phase               | 相位       |               |
+| fraction            | 分数 (1/4) |               |
 |                     |            |               |
 | **Statics**         | 统计       |               |
 | standard deviation  | 标准差     |               |
 | median              | 中位数     |               |
 | arithmetic mean     | 算数平均值 |               |
 | ratio               | 比例       |               |
+| proportion          | 比例       |               |
 |                     |            |               |
 | **other**           |            |               |
 | constant            | 不变的     |               |
@@ -250,8 +305,15 @@
 | down payment        | 首付       |               |
 | fraction            | 部分       |               |
 | mutually            | 互相地     |               |
+| revenue             | 收入，税收 |               |
 
-## Boxplot
+## Notes for exam
+
+### Graphic
+
+- **读清楚图表的标题！**
+
+### Boxplot
 
 ![Boxplot](http://www.kebingxin.com:9000/imgs/boxplot.png)
 
@@ -280,7 +342,7 @@ Q4：在第3个25%的位置上，即在100%的位置上 = 最大值。
 | nitrogen    | N               |                               |
 | oxygen      | O               |                               |
 | aluminum    | Al              |                               |
-| alumina     | Al2O3           | 氧化铝                        |
+| alumina     | zAl2O3          | 氧化铝                        |
 | bauxite     | 铝土矿          |                               |
 | molecule    | 分子            |                               |
 | ozone       | 臭氧            |                               |
@@ -289,7 +351,7 @@ Q4：在第3个25%的位置上，即在100%的位置上 = 最大值。
 | alloy       | 合金            |                               |
 | crystalline | 晶体的          | crystalline structure晶体结构 |
 | isotope     | 同位素          |                               |
-|             |                 |                               |
+| proton      | 质子            |                               |
 |             |                 |                               |
 
 
@@ -307,6 +369,8 @@ Q4：在第3个25%的位置上，即在100%的位置上 = 最大值。
 | pollen         | 花粉           | pollinate授粉                   |
 | glucose        | 葡萄糖         |                                 |
 | adrenaline     | 肾上腺素       |                                 |
+| endocrine      | 内分泌的       |                                 |
+| exocrine       | 外分泌的       |                                 |
 | fungus         | 真菌           |                                 |
 | immune         | 免疫           |                                 |
 | larva          | 幼虫           |                                 |
@@ -315,10 +379,14 @@ Q4：在第3个25%的位置上，即在100%的位置上 = 最大值。
 | cerebral       | 大脑的，理智的 |                                 |
 | mite           | 螨虫           |                                 |
 | vaccine        | 疫苗           |                                 |
-| avain flu      | 禽流感         |                                 |
+| avian flu      | 禽流感         |                                 |
+| jaw            | 下巴           | snap: sudden closing of the jaw |
+| inherit        | 继承，遗传     |                                 |
+| acoustic       | 听觉的         | acoustic nerve听觉神经          |
+| tumor          | 肿瘤           |                                 |
 |                |                |                                 |
 
-## Anamal and Plants
+## Animal and Plants
 
 | Word    | Chinese | Note |
 | ------- | ------- | ---- |
@@ -329,47 +397,123 @@ Q4：在第3个25%的位置上，即在100%的位置上 = 最大值。
 |         |         |      |
 |         |         |      |
 
-
-
-# Other jargon
+# Geographic Term
 
 | Word         | Chinese     | note                |
 | ------------ | ----------- | ------------------- |
 | terrestrial  | adj. 陆地的 |                     |
-| archaeology  | 考古学      |                     |
-| epistemology | 认识论      |                     |
-| hydrologic   | 水文学      |                     |
-| thermal      | 热量的      | thermal energy 热能 |
-| stratosphere | 平流层      |                     |
-| velocity     | 速度        |                     |
+| tropical     | 热带的      |                     |
+| Atlantic     | 大西洋      |                     |
+| arctic       | 北极的      |                     |
+| antarctic    | 南极的      |                     |
 | meteorite    | 陨石        |                     |
 | seismic      | 地震的      | seismology地震学    |
 | nebular      | 星云        |                     |
 | realm        | 领域        | academic realm      |
+| hydrologic   | 水文学      |                     |
 | corona       | 日冕，光环  |                     |
-| lever        | 杠杆        |                     |
-| transparent  | 透明的      |                     |
-|              |             |                     |
-|              |             |                     |
+| stratosphere | 平流层 |      |
+| troposphere | 对流层 |      |
 
 
 
-# Synonym
+# Other jargon
+
+| Word         | Chinese        | note                    |
+| ------------ | -------------- | ----------------------- |
+| archaeology  | 考古学         | archaic古代的           |
+| epistemology | 认识论         |                         |
+| thermal      | 热量的         | thermal energy 热能     |
+|              |                |                         |
+| velocity     | 速度           |                         |
+| lever        | 杠杆           |                         |
+| transparent  | 透明的         |                         |
+| bog          | 沼泽           |                         |
+| Fahrenheit   | 华氏度         |                         |
+| Centigrade   | 摄氏度         |                         |
+| pejorative   | 贬义词，轻蔑语 |                         |
+| compliment   | 赞美之词       |                         |
+| monarchy     | 君主制         | -chy 后缀的  一般是 *制 |
+| autarchy     | 专制，独裁     |                         |
+| hierarchy    | 等级制度       |                         |
+
+# Synonyms
 
 ### Adjective
 
 - affirmative
-  - 
+  - salutary	有益的
 - negative
-  - pessimistic 悲观的
+  - pessimistic	悲观的
+  - passive 消极的
+- enough
+   - sufficient (正式)
+   - adequate (数量上够)
+   - decent
 - everywhere
   - **ubiquitous**
   - pervasive
   - universal
-
-### Noun
-
-- 
+- long-standing
+   - perennial (常年)
+   - permanent (永久)
+   - durable
+   - lasting
+   - continuing
+   - continual
+   - perpetual
+- mannish
+  - masculine
+- similar
+   - resemble
+   - analogous
+- **smart** 
+  - bright (口，机灵)
+  - wise (有智慧)
+  - brilliant (才华出众)
+  - intelligent (正式)
+  - deft (灵巧的，机敏的)
+  - perceptive (洞察力强)
+  - shrewd (精明老练)
+  - astute (精明)
+  - crafty (贬，狡猾)
+  - canny (精明狡猾)
+  - sophisticate (世故老练的)
+  - (n.)acumen
+- creative
+   - ingenious (暗示创造发明才能)
+   - artful (机灵的)
+   - originative (有创作力的)
+   - adroit (熟练的，灵活的)  be adroit at ...
+- excellent
+   - salient
+   - extraordinary
+   - outstanding
+   - exceeding
+   - exceptional
+   - prodigious (异常的，惊人的)
+   - surpassing
+- difficult-to-understand
+   - arcane
+   - abstract
+   - cryptic
+   - esoteric
+   - convoluted
+   - involved
+   - obscure
+   - elliptical (隐晦的)
+   - enigmatic (神秘，难懂)
+   - profound (深刻，深奥)
+   - recondite (深奥)
+   - hermetic (深奥，密封的)
+   - obfuscated (混淆的)
+   - murky (含糊不清)
+- mixed
+   - heterogeneous
+   - assorted
+   - inhomogeneous
+   - miscellaneous
+   - motley
 
 ### Verb
 
@@ -378,8 +522,93 @@ Q4：在第3个25%的位置上，即在100%的位置上 = 最大值。
   - invalidate
   - negate
   - nullify
+- blame
+  - accuse (归罪， >blame)
+  - condemn (谴责，司法)
+  - scold (上对下的数落)
+  - rebuke (上对下的责备)
+  - denounce (= condemn)
+  - reproach (责备他人的粗心、自私等)
+  - decry (公开反对，谴责)
+- refute
+   - refute (语气强) 驳斥
+   - confute 驳斥
+   - contradict 反对，反驳
+   - oppose (温和的)反对
+   - repudiate 拒绝，否认
+   - deny 拒绝
+   - reject 拒绝
+   - refuse 拒绝
+   - decline (谢绝邀请)
+- end
+  - break (非正式，休息)
+  - rest
+  - pause (暂停)
+  - interval (间歇)
+  - recess (正式，休息)
+  - cease (正式，结束)
+  - stop (终止)
+  - vanish (消失，消亡)
+- respect
+   - esteem
+   - admire
+   - honour (美式honor)
+   - regard (正式，中性)
+   - deference(n.尊敬)
+   - awe (n.敬畏)
+- indicate
+  
+   - presage
+   - portend
+   - augury (占卜)
+   - forebode (对不祥之事)
+   - presentiment (n. 对不祥之事)
+   - precognition (n.)
+   - bespeak
+   - betoken
+   - forecast
+- implore
+   - ask
+   - beg
+   - demand (命令)
+   - require (要求）
+   - request (请求)
+   - implore (书，急切的情感)
+   - supplicate (哀求)
+   - entreat (恳求)
+   - claim (公开提出的要求)
+   - pray (祈祷)
+- want
+   - yearn (渴望)
+   - desire
+   - thirst (全力以求)
+   - hanker
+   - long
+   - cherish
+- improve
+   - enhance
+   - refine
+   - ameliorate
+   - boost
+   - perfect (v.)
+   - augment (v, n)
 
+### Noun
 
+- disaster
+  - catastrophe (灾难)
+  - cataclysm (突然降临的大灾难)
+  - calamity (个人不幸, > disaster)
+  - misfortune (由于外部造成的不幸)
+  - holocaust (大屠杀)
+  - tragedy (悲剧，惨案)
+- opinion
+   - proposition
+- calm
+   - aplomb
+   - composure
+   - equanimity
+- 
 
 # Words from word book
 
@@ -423,6 +652,26 @@ Q4：在第3个25%的位置上，即在100%的位置上 = 最大值。
 |                  |                |                                                         |                                                              |                  |                                                              |
 
 # Notes for Verbal
+
+## Conclusions
+
+### Conjunction
+
+**nonetheless		还是(adv.)	**
+
+> though ... , the book is nonetheless ...
+
+**notwithstanding**	尽管
+
+> despite: 书面用词，指不受某事或某种原因的阻碍，语气轻于in spite of。
+> in spite of: 在这些词中语气最强，可与despite换用，口语或书面语中均可使用。
+> notwithstanding: 语气最弱，仅表示一种障碍的存在。
+>
+> I love the boy notwithstanding this naughtiness.
+
+
+
+## Every-day notes
 
 ### 8.27
 
@@ -557,4 +806,176 @@ stringent	严格
 procedure	流程
 inspection	检查
 ```
+
+### 8.28
+
+```
+etiquette	礼仪
+manual		手册
+waistcoat	马甲
+```
+
+```
+high tissue concentration	高组织浓度
+compound	混合物
+resistance to infection		抗感染能力
+exposure (n.)  <=  expose (v.)
+mortality rate	死亡率
+```
+
+```
+prose		散文  => narravite	记叙文
+lucrative	盈利的，合算的
+emerge		出现，显示
+subvert		推翻
+tragedy		惨案
+heroic		英雄的
+patriarch	主教
+```
+
+```
+speculative	scenario	投机情节
+periphery	外围的
+offset		抵消，偏移
+dense		浓厚的
+stir		搅拌，挑拨离间
+excessive	过多的，过分的
+```
+
+```
+abandon		放弃
+faction		小集团
+presumptive	假定的
+impartial	公平  (partial 局部的，不公平的)
+stance of impartial	公平的立场
+dispute		争端
+```
+
+```
+range	=>	领域
+composer	作曲家
+pianist		钢琴家
+conductor	指挥
+dichotomise	对分
+'reluctance' is being ascribed to sb. 认为...属于...
+```
+
+### 8.29
+
+```
+elitst	<-->	egalitarian
+精英				平等主义者
+```
+
+**seemingly** 后半句是反义：...看似A, （实际上）B，A和B是反义的
+
+```
+The book's seemingly casually written, conversational style masks a shrewdly crafted.
+```
+
+```
+aesthetic quality	美学质量
+commercial	经济的、有利益的
+polemical	争辩的(polemic反调)
+```
+
+```
+impenetrable	费解的
+```
+
+```
+reputation	名气
+venal		唯利是图
+impudent	厚颜无耻
+corteous	有礼貌的，polite
+```
+
+```
+nettle		惹怒, annoy
+observation	观点
+contemptuous鄙视的轻蔑的
+```
+
+```
+elusive		深奥的，难懂的
+circumstantial	描述详细的
+```
+
+```
+plastic		可塑的
+malleable	可延展的
+```
+
+```
+Each member of the journalistic pair served as ___ the other.
+a check on		检查✔
+a brake on		刹车✔
+journalistic	新闻业的
+advocate for	提倡
+```
+
+```
+on slippery ground	没有把握的
+=>	dubious	将信将疑的，不可靠的
+```
+
+```
+glorious monument	光荣的纪念碑
+They enfeeble the city by enabling the migration of city dwellers to the suburbs.
+enfeeble	弱化
+dweller		居民
+suburb		郊区
+```
+
+```
+xxx was ridiculed by them, so it has become a pejorative.
+redicule	嘲笑
+pejorative	轻蔑语(n.)，轻蔑的(adj.)
+```
+
+```
+ill at ease	不安
+ill at ease	不安
+ill at ease	不安
+aplomb		镇静(n.)
+magnanimity	宽宏大量
+clumsy		笨拙的
+```
+
+```
+at odds with	认为...不妥
+at odds with	认为...不妥
+at odds with	认为...不妥
+supersede		取代
+citation		引用
+methodical		有条不紊的
+insight			洞察力
+```
+
+```
+wanting		欠缺的
+```
+
+```
+The dot's appearance of supplication/entreaty became increasingly irritating, his whines became more wheedling, his manner more imploring.
+supplication	请求
+entreaty		请求
+irritating		让人生气的
+whine			呜呜声
+wheedle			用甜言蜜语哄骗
+implore			乞求
+```
+
+```
+democracy	民主政治
+signpost	路标
+```
+
+```
+millennium	千禧年
+```
+
+### 8.30
+
+
 
