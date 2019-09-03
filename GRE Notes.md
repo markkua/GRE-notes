@@ -3,6 +3,14 @@
 # Polysemy
 
 
+- **abide**
+  
+  ```
+  v. 等待
+  v. 忍受
+  v. 遵守
+  ```
+  
 - **acute**
   
   ```
@@ -232,29 +240,35 @@
 
 # Similar or analogous
 
-| word1                | word2         |
-| -------------------- | ------------- |
-| violate              | violence      |
-| abound               | about         |
-| converge             | convert       |
-| secret               | secrete       |
-| forge                | forage        |
-| deduce               | reduce        |
-| asset                | assert        |
-| surprise             | suppressed    |
-| defer, deter, deduce |               |
-| odd                  | odds          |
-| annul                | annual        |
-| condemn              | condone       |
-| heroin               | heroic        |
-| comprehensive        | comprehension |
-| abroad               | aboard        |
-| confound             | profound      |
-| refuse               | refute        |
-| perilous             | parallel      |
-| confer               | defer         |
-| improvise            | improvement   |
-| eschew               | shrewd        |
+| word1                | word2                      |
+| -------------------- | -------------------------- |
+| violate              | violence                   |
+| abound               | about                      |
+| converge             | convert                    |
+| secret               | secrete                    |
+| forge                | forage                     |
+| deduce               | reduce                     |
+| asset                | assert                     |
+| surprise             | suppressed                 |
+| defer, deter, deduce |                            |
+| odd                  | odds                       |
+| annul                | annual                     |
+| condemn              | condone                    |
+| heroin               | heroic                     |
+| comprehensive        | comprehension              |
+| abroad               | aboard                     |
+| confound             | profound                   |
+| refuse               | refute                     |
+| perilous             | parallel                   |
+| confer               | defer                      |
+| improvise            | improvement                |
+| eschew               | shrewd                     |
+| overt                | over                       |
+| circumstance,        | circumstantial, circumvent |
+| competitive          | compatible                 |
+| adapt                | adopt                      |
+| decent               | discern                    |
+|                      |                            |
 
 
 
@@ -269,13 +283,15 @@
 | minus               | 减         |               |
 | prime factor        | 质因子     |               |
 |                     |            |               |
-| **Geometric**       | **集合**   |               |
+| **Geometric**       | **几何**   |               |
 | perimeter           | 周长       |               |
 | plane               | 平面       |               |
 | parallel            | 平行的     |               |
 | perpendicular       | 垂直的     |               |
 | tangent             | 相切的     |               |
 | inscribed           | 内接于     |               |
+| isosceles           | 等腰的     |               |
+| equilateral         | 等边的     |               |
 | slope               | 斜率，斜坡 |               |
 | cylinder            | 柱状       |               |
 | cone                | 锥         | circle cone圆 |
@@ -289,6 +305,8 @@
 | remainder           | 余数       |               |
 | phase               | 相位       |               |
 | fraction            | 分数 (1/4) |               |
+| inequality          | 不等式     |               |
+| algebra             | 代数       |               |
 |                     |            |               |
 | **Statics**         | 统计       |               |
 | standard deviation  | 标准差     |               |
@@ -296,6 +314,7 @@
 | arithmetic mean     | 算数平均值 |               |
 | ratio               | 比例       |               |
 | proportion          | 比例       |               |
+| normal distribution | 正态分布   |               |
 |                     |            |               |
 | **other**           |            |               |
 | constant            | 不变的     |               |
@@ -333,7 +352,13 @@ Q4：在第3个25%的位置上，即在100%的位置上 = 最大值。
 ⑤ The range of lis = 最大值-最小值。
 ```
 
+### normal distribution
 
+$$
+P\{|x<\mu | < 1\sigma \} = 0.6826\\
+P \{|x-\mu|< 2 \sigma\} = 0.9544\\
+P \{|x-\mu|< 3 \sigma\} = 0.9974
+$$
 
 # Chemistry Term
 
@@ -346,13 +371,15 @@ Q4：在第3个25%的位置上，即在100%的位置上 = 最大值。
 | bauxite     | 铝土矿          |                               |
 | molecule    | 分子            |                               |
 | ozone       | 臭氧            |                               |
+| ammonia     | 氨              |                               |
 | refrigerant | 制冷剂          |                               |
 | bronze      | 青铜            |                               |
 | alloy       | 合金            |                               |
 | crystalline | 晶体的          | crystalline structure晶体结构 |
 | isotope     | 同位素          |                               |
 | proton      | 质子            |                               |
-|             |                 |                               |
+| caffeine    | 咖啡因          |                               |
+| distill     | 蒸馏，提取      |                               |
 
 
 
@@ -393,7 +420,7 @@ Q4：在第3个25%的位置上，即在100%的位置上 = 最大值。
 | aspen   | 白杨树  |      |
 | oak     | 橡树    |      |
 | conifer | 针叶树  |      |
-|         |         |      |
+| algae   | 藻类    |      |
 |         |         |      |
 |         |         |      |
 
@@ -423,6 +450,8 @@ Q4：在第3个25%的位置上，即在100%的位置上 = 最大值。
 | ------------ | -------------- | ----------------------- |
 | archaeology  | 考古学         | archaic古代的           |
 | epistemology | 认识论         |                         |
+| anthropology | 人类学         | anthro- 人类的          |
+|              |                |                         |
 | thermal      | 热量的         | thermal energy 热能     |
 |              |                |                         |
 | velocity     | 速度           |                         |
@@ -443,9 +472,14 @@ Q4：在第3个25%的位置上，即在100%的位置上 = 最大值。
 
 - affirmative
   - salutary	有益的
+  - sanguine  积极的
+  - salubrious 有益的
 - negative
   - pessimistic	悲观的
   - passive 消极的
+  - equivocal 黑暗的
+  - harmful
+     - pernicious 
 - enough
    - sufficient (正式)
    - adequate (数量上够)
@@ -454,6 +488,13 @@ Q4：在第3个25%的位置上，即在100%的位置上 = 最大值。
   - **ubiquitous**
   - pervasive
   - universal
+- necessary
+   - required
+   - requisite
+   - compulsory
+   - imperative (急需的)
+   - obligatory (必要的，必修)
+   - indispensable
 - long-standing
    - perennial (常年)
    - permanent (永久)
@@ -464,6 +505,12 @@ Q4：在第3个25%的位置上，即在100%的位置上 = 最大值。
    - perpetual
 - mannish
   - masculine
+- economic
+   - fiscal (会计的)
+   - pecuniary (金钱的)
+   - monetary
+   - financial
+   - 
 - similar
    - resemble
    - analogous
@@ -473,6 +520,7 @@ Q4：在第3个25%的位置上，即在100%的位置上 = 最大值。
   - brilliant (才华出众)
   - intelligent (正式)
   - deft (灵巧的，机敏的)
+  - apt
   - perceptive (洞察力强)
   - shrewd (精明老练)
   - astute (精明)
@@ -501,6 +549,7 @@ Q4：在第3个25%的位置上，即在100%的位置上 = 最大值。
    - convoluted
    - involved
    - obscure
+   - impenetrable
    - elliptical (隐晦的)
    - enigmatic (神秘，难懂)
    - profound (深刻，深奥)
@@ -508,12 +557,25 @@ Q4：在第3个25%的位置上，即在100%的位置上 = 最大值。
    - hermetic (深奥，密封的)
    - obfuscated (混淆的)
    - murky (含糊不清)
+   - equivocal (模棱两可)
+   - ambiguous (模糊不清模棱两可)
+- clear
+   - lucid
+   - intelligible
+   - pellucid
+   - explicit
+   - unambiguous
+   - comprehensible
+   - 
 - mixed
    - heterogeneous
    - assorted
    - inhomogeneous
    - miscellaneous
    - motley
+- missing-old-things
+   - nostalgic
+   - retrospective
 
 ### Verb
 
@@ -534,6 +596,7 @@ Q4：在第3个25%的位置上，即在100%的位置上 = 最大值。
    - refute (语气强) 驳斥
    - confute 驳斥
    - contradict 反对，反驳
+   - counter 反驳
    - oppose (温和的)反对
    - repudiate 拒绝，否认
    - deny 拒绝
@@ -552,6 +615,7 @@ Q4：在第3个25%的位置上，即在100%的位置上 = 最大值。
 - respect
    - esteem
    - admire
+   - venerate
    - honour (美式honor)
    - regard (正式，中性)
    - deference(n.尊敬)
@@ -604,56 +668,22 @@ Q4：在第3个25%的位置上，即在100%的位置上 = 最大值。
   - tragedy (悲剧，惨案)
 - opinion
    - proposition
+   - statement
+   - proposal
+   - 
 - calm
    - aplomb
    - composure
    - equanimity
 - 
 
-# Words from word book
-
-| Word             | Part of Speech | English Meaning                                         | Dictionary                                                   | Chinese          | Example                                                      |
-| ---------------- | -------------- | ------------------------------------------------------- | ------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ |
-| auditioned       |                | a trial performance to appraise an entertainer's merits | [webster](https://www.merriam-webster.com/dictionary/auditioned) | 试镜             |                                                              |
-| excuse           |                | to allow to leave                                       | [webster](https://www.merriam-webster.com/dictionary/excused) |                  | You are excused (你可以走了)                                 |
-| serving          |                | a helping of food or drink                              |                                                              | 份               | 1 serving of candy (一份糖果)                                |
-| loan             |                | money lent at interest                                  | [webster](https://www.merriam-webster.com/dictionary/loans)  | 贷款             |                                                              |
-| principal amount |                |                                                         |                                                              | 本金             |                                                              |
-| repaid           |                |                                                         |                                                              | 偿还             | The manager of a small business took out two one-year loans, each for the same principal amount, to be repaid with interest at the end of the year. |
-| interest         |                |                                                         |                                                              | 利息             | 同上                                                         |
-| owe              |                |                                                         |                                                              | 欠款             |                                                              |
-| identical        |                |                                                         |                                                              | 相同的           |                                                              |
-| alternate        |                |                                                         |                                                              | 交替             |                                                              |
-| quantum          |                |                                                         |                                                              | 量子             |                                                              |
-| amendment        | n.             | the process of altering or amending a law or document   | [webster](https://www.merriam-webster.com/dictionary/amendment) | 修正案           |                                                              |
-| underlie         | v.             | to form the basis of foundation of                      |                                                              | 构成...的基础    | Figure out what feeling underlies your anger                 |
-| obscure          | adj.  v.       |                                                         |                                                              | 晦涩难懂         |                                                              |
-| remnant          | n.             |                                                         |                                                              | 剩余部分         |                                                              |
-| paradox          | n.             |                                                         |                                                              | 矛盾的事         | paradoxical矛盾的adj.                                        |
-| **rhetoric**     | n.             | the art of speaking or writing effectively              | [webster](https://www.merriam-webster.com/dictionary/rhetoric) | 修辞             |                                                              |
-| undermine        | v.             |                                                         |                                                              | 破坏             |                                                              |
-| archaic          | adj.           |                                                         |                                                              | 古老的           |                                                              |
-| zooplankton      | n.             |                                                         |                                                              | 浮游生物         |                                                              |
-| plankton         | n.             |                                                         |                                                              | 漂浮物           |                                                              |
-| spiral           | adj.           |                                                         |                                                              | 旋转的           | spin -> spiral                                               |
-| exploit          | v.             |                                                         |                                                              | 剥削             |                                                              |
-| fashion          | n. v.          |                                                         |                                                              | 时尚，方式，制作 |                                                              |
-| mount            | v.             |                                                         |                                                              | 上涨，发动       |                                                              |
-| analogous        | adj.           |                                                         |                                                              | 相似的           |                                                              |
-| mar              | v.             |                                                         |                                                              | 破坏             |                                                              |
-| stellar          | n.             |                                                         |                                                              | 恒星             |                                                              |
-| interstellar     | adj.           |                                                         |                                                              | 星际的           |                                                              |
-| juvenile         | adj.           |                                                         |                                                              | 青年的，幼稚的   |                                                              |
-| simultaneous     | adj.           |                                                         | [webster](https://www.merriam-webster.com/dictionary/simultaneous) | 同时的           | simultaneous translation同声传译                             |
-| probe            | v.             |                                                         |                                                              | 深入调查         |                                                              |
-| prominent        | adj.           |                                                         |                                                              | 杰出的           |                                                              |
-|                  |                |                                                         |                                                              |                  |                                                              |
-|                  |                |                                                         |                                                              |                  |                                                              |
-|                  |                |                                                         |                                                              |                  |                                                              |
-
 # Notes for Verbal
 
 ## Conclusions
+
+### Tips
+
+- 注意补充的部分，可能是两个 '-' 之间的，也可能是两个 ',' 之间的
 
 ### Conjunction
 
@@ -669,7 +699,9 @@ Q4：在第3个25%的位置上，即在100%的位置上 = 最大值。
 >
 > I love the boy notwithstanding this naughtiness.
 
+**in that** 因为
 
+> The book is good, *in that* it's well written, but I didn't actually enjoy reading it.
 
 ## Every-day notes
 
@@ -898,7 +930,7 @@ contemptuous鄙视的轻蔑的
 
 ```
 elusive		深奥的，难懂的
-circumstantial	描述详细的
+circumstantial	旁证(详细的)
 ```
 
 ```
@@ -975,7 +1007,87 @@ signpost	路标
 millennium	千禧年
 ```
 
-### 8.30
+### 8.31
+
+```
+Hester is overshadowed by her younger and more attractive sister.
+overshadow	使...黯然失色
+```
+
+```
+hardly a debased kind <==>  paradigm
+debased		降低
+paradigm	模范
+```
+
+**<u>in that</u> 还能表示  因为！！！**
+
+```
+This approach is startling, in that she jettisoned the normally used devices.
+approach	方法
+startling	触目惊心
+jettison	摈弃
+in that 	因为
+```
+
+```
+discomfit	挫败
+infallibility	不可能错的(n.)
+## remedial	补救的
+```
+
+### 9.03
+
+```
+dextral		右旋的
+sinistral	左旋的
+```
 
 
 
+
+
+## Words from word book
+
+| Word             | Part of Speech | English Meaning                                         | Dictionary                                                   | Chinese          | Example                                                      |
+| ---------------- | -------------- | ------------------------------------------------------- | ------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ |
+| auditioned       |                | a trial performance to appraise an entertainer's merits | [webster](https://www.merriam-webster.com/dictionary/auditioned) | 试镜             |                                                              |
+| excuse           |                | to allow to leave                                       | [webster](https://www.merriam-webster.com/dictionary/excused) |                  | You are excused (你可以走了)                                 |
+| serving          |                | a helping of food or drink                              |                                                              | 份               | 1 serving of candy (一份糖果)                                |
+| loan             |                | money lent at interest                                  | [webster](https://www.merriam-webster.com/dictionary/loans)  | 贷款             |                                                              |
+| principal amount |                |                                                         |                                                              | 本金             |                                                              |
+| repaid           |                |                                                         |                                                              | 偿还             | The manager of a small business took out two one-year loans, each for the same principal amount, to be repaid with interest at the end of the year. |
+| interest         |                |                                                         |                                                              | 利息             | 同上                                                         |
+| owe              |                |                                                         |                                                              | 欠款             |                                                              |
+| identical        |                |                                                         |                                                              | 相同的           |                                                              |
+| alternate        |                |                                                         |                                                              | 交替             |                                                              |
+| quantum          |                |                                                         |                                                              | 量子             |                                                              |
+| amendment        | n.             | the process of altering or amending a law or document   | [webster](https://www.merriam-webster.com/dictionary/amendment) | 修正案           |                                                              |
+| underlie         | v.             | to form the basis of foundation of                      |                                                              | 构成...的基础    | Figure out what feeling underlies your anger                 |
+| obscure          | adj.  v.       |                                                         |                                                              | 晦涩难懂         |                                                              |
+| remnant          | n.             |                                                         |                                                              | 剩余部分         |                                                              |
+| paradox          | n.             |                                                         |                                                              | 矛盾的事         | paradoxical矛盾的adj.                                        |
+| **rhetoric**     | n.             | the art of speaking or writing effectively              | [webster](https://www.merriam-webster.com/dictionary/rhetoric) | 修辞             |                                                              |
+| undermine        | v.             |                                                         |                                                              | 破坏             |                                                              |
+| archaic          | adj.           |                                                         |                                                              | 古老的           |                                                              |
+| zooplankton      | n.             |                                                         |                                                              | 浮游生物         |                                                              |
+| plankton         | n.             |                                                         |                                                              | 漂浮物           |                                                              |
+| spiral           | adj.           |                                                         |                                                              | 旋转的           | spin -> spiral                                               |
+| exploit          | v.             |                                                         |                                                              | 剥削             |                                                              |
+| fashion          | n. v.          |                                                         |                                                              | 时尚，方式，制作 |                                                              |
+| mount            | v.             |                                                         |                                                              | 上涨，发动       |                                                              |
+| analogous        | adj.           |                                                         |                                                              | 相似的           |                                                              |
+| mar              | v.             |                                                         |                                                              | 破坏             |                                                              |
+| stellar          | n.             |                                                         |                                                              | 恒星             |                                                              |
+| interstellar     | adj.           |                                                         |                                                              | 星际的           |                                                              |
+| juvenile         | adj.           |                                                         |                                                              | 青年的，幼稚的   |                                                              |
+| simultaneous     | adj.           |                                                         | [webster](https://www.merriam-webster.com/dictionary/simultaneous) | 同时的           | simultaneous translation同声传译                             |
+| probe            | v.             |                                                         |                                                              | 深入调查         |                                                              |
+| prominent        | adj.           |                                                         |                                                              | 杰出的           |                                                              |
+|                  |                |                                                         |                                                              |                  |                                                              |
+|                  |                |                                                         |                                                              |                  |                                                              |
+|                  |                |                                                         |                                                              |                  |                                                              |
+
+
+
+[#normal distribution]: 
