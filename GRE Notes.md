@@ -1,5 +1,16 @@
 
 
+
+
+
+
+# Catalog
+[TOC]
+
+------
+
+
+
 # Polysemy
 
 
@@ -268,6 +279,9 @@
 | competitive          | compatible                 |
 | adapt                | adopt                      |
 | decent               | discern                    |
+| hostile              | hospitable                 |
+| distinguish          | distinct                   |
+| compound             | component                  |
 |                      |                            |
 
 
@@ -289,6 +303,8 @@
 | parallel            | 平行的     |               |
 | perpendicular       | 垂直的     |               |
 | tangent             | 相切的     |               |
+| intersect           | 相交       |               |
+| skew                | 斜交       |               |
 | inscribed           | 内接于     |               |
 | isosceles           | 等腰的     |               |
 | equilateral         | 等边的     |               |
@@ -385,33 +401,34 @@ $$
 
 # Biological Term
 
-| Word           | Chinese        | Note                            |
-| -------------- | -------------- | ------------------------------- |
-| calories       | 卡路里         |                                 |
-| protein        | 蛋白质         |                                 |
-| cholesterol    | 胆固醇         |                                 |
-| metabolism     | 新陈代谢       | metabolic(adj.)                 |
-| molecule       | 分子           |                                 |
-| photosynthesis | 光合作用n.     | synthesis n.合成  synthesize v. |
-| pollen         | 花粉           | pollinate授粉                   |
-| glucose        | 葡萄糖         |                                 |
-| adrenaline     | 肾上腺素       |                                 |
-| endocrine      | 内分泌的       |                                 |
-| exocrine       | 外分泌的       |                                 |
-| fungus         | 真菌           |                                 |
-| immune         | 免疫           |                                 |
-| larva          | 幼虫           |                                 |
-| peptide        | 肽             |                                 |
-| gland          | 腺体           |                                 |
-| cerebral       | 大脑的，理智的 |                                 |
-| mite           | 螨虫           |                                 |
-| vaccine        | 疫苗           |                                 |
-| avian flu      | 禽流感         |                                 |
-| jaw            | 下巴           | snap: sudden closing of the jaw |
-| inherit        | 继承，遗传     |                                 |
-| acoustic       | 听觉的         | acoustic nerve听觉神经          |
-| tumor          | 肿瘤           |                                 |
-|                |                |                                 |
+| Word           | Chinese            | Note                            |
+| -------------- | ------------------ | ------------------------------- |
+| calories       | 卡路里             |                                 |
+| protein        | 蛋白质             |                                 |
+| cholesterol    | 胆固醇             |                                 |
+| metabolism     | 新陈代谢           | metabolic(adj.)                 |
+| molecule       | 分子               |                                 |
+| photosynthesis | 光合作用n.         | synthesis n.合成  synthesize v. |
+| pollen         | 花粉               | pollinate授粉                   |
+| glucose        | 葡萄糖             |                                 |
+| adrenaline     | 肾上腺素           |                                 |
+| endocrine      | 内分泌的           |                                 |
+| exocrine       | 外分泌的           |                                 |
+| fungus         | 真菌               |                                 |
+| immune         | 免疫               |                                 |
+| larva          | 幼虫               |                                 |
+| peptide        | 肽                 |                                 |
+| gland          | 腺体               |                                 |
+| cerebral       | 大脑的，理智的     |                                 |
+| mite           | 螨虫               |                                 |
+| vaccine        | 疫苗               |                                 |
+| avian flu      | 禽流感             |                                 |
+| jaw            | 下巴               | snap: sudden closing of the jaw |
+| inherit        | 继承，遗传         |                                 |
+| acoustic       | 听觉的             | acoustic nerve听觉神经          |
+| tumor          | 肿瘤               |                                 |
+| fauna          | 某一时期的动物群落 |                                 |
+|                |                    |                                 |
 
 ## Animal and Plants
 
@@ -480,6 +497,15 @@ $$
   - equivocal 黑暗的
   - harmful
      - pernicious 
+     - deleterious
+- for description
+   - apposite 贴切的
+      - germane
+      - felicitous
+      - objective 客观的
+   - improper
+      - inapposite
+      - 
 - enough
    - sufficient (正式)
    - adequate (数量上够)
@@ -550,6 +576,7 @@ $$
    - involved
    - obscure
    - impenetrable
+   - enigmatic
    - elliptical (隐晦的)
    - enigmatic (神秘，难懂)
    - profound (深刻，深奥)
@@ -559,6 +586,7 @@ $$
    - murky (含糊不清)
    - equivocal (模棱两可)
    - ambiguous (模糊不清模棱两可)
+   - inscrutable (不可理解的，谜一样的)
 - clear
    - lucid
    - intelligible
@@ -575,7 +603,10 @@ $$
    - motley
 - missing-old-things
    - nostalgic
-   - retrospective
+   - retrospective (回溯的)
+- suspicious
+   - skeptical
+   - dubious
 
 ### Verb
 
@@ -624,13 +655,15 @@ $$
   
    - presage
    - portend
+   - foreshadow
+   - bespeak
+   - betoken
+   - forecast
+   - predict
    - augury (占卜)
    - forebode (对不祥之事)
    - presentiment (n. 对不祥之事)
    - precognition (n.)
-   - bespeak
-   - betoken
-   - forecast
 - implore
    - ask
    - beg
@@ -675,7 +708,13 @@ $$
    - aplomb
    - composure
    - equanimity
-- 
+- contradiction
+   - paradox
+   - dichotomy
+   - opposite
+   - incongruity (不协调的)
+   - at odds with
+   - ambivalence(矛盾心理)
 
 # Notes for Verbal
 
@@ -1043,7 +1082,66 @@ dextral		右旋的
 sinistral	左旋的
 ```
 
+### 9.05
 
+```
+slander		诽谤
+defame		中伤
+calumny		诽谤
+```
+
+```
+scandal		丑闻
+be keen on	喜欢，渴望
+be inclined to	倾向于
+dispense with	免除，省掉
+```
+
+```
+hodgepodge	大杂烩
+identity theft	身份盗用
+distinction	荣誉；区分
+```
+
+```
+doctrinare	教条主义
+mutable  -> immutable
+```
+
+```
+haughty		傲慢的  (类比  pride)
+caricature	讽刺(用漫画讽刺)
+```
+
+```
+不合历史的:
+	ahistorical
+	anachronistic
+```
+
+```
+at the heel of	紧跟在...后面
+irascible	易怒的
+pugnacious	好斗的
+```
+
+```
+erudite		博学之士
+insular		孤立的，与世隔绝的
+cosmopolitan	世界性的
+imperturbable	泰然自若的
+```
+
+```
+the ban begins to appear imminent.
+imminent	迫近的
+```
+
+```
+belie	证明...是错的
+austere	简朴的
+erode	腐蚀
+```
 
 
 
