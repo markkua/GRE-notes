@@ -247,7 +247,15 @@
   n.	连环画
   ```
 
-  
+- **stifle**
+
+   ```
+   v.	使窒息
+   v. 	遏制
+   n.	(四足动物的)膝
+   ```
+
+   
 
 # Similar or analogous
 
@@ -282,6 +290,7 @@
 | hostile              | hospitable                 |
 | distinguish          | distinct                   |
 | compound             | component                  |
+| journal              | journey                    |
 |                      |                            |
 
 
@@ -376,7 +385,7 @@ P \{|x-\mu|< 2 \sigma\} = 0.9544\\
 P \{|x-\mu|< 3 \sigma\} = 0.9974
 $$
 
-# Chemistry Term
+# Chemical Term
 
 | Word        | Formula(Symbol) | Note                          |
 | ----------- | --------------- | ----------------------------- |
@@ -388,6 +397,7 @@ $$
 | molecule    | 分子            |                               |
 | ozone       | 臭氧            |                               |
 | ammonia     | 氨              |                               |
+| inert gas   | 惰性气体        |                               |
 | refrigerant | 制冷剂          |                               |
 | bronze      | 青铜            |                               |
 | alloy       | 合金            |                               |
@@ -396,6 +406,9 @@ $$
 | proton      | 质子            |                               |
 | caffeine    | 咖啡因          |                               |
 | distill     | 蒸馏，提取      |                               |
+| erode       | 腐蚀            |                               |
+| dilute      | 稀释            |                               |
+|             |                 |                               |
 
 
 
@@ -420,6 +433,7 @@ $$
 | peptide        | 肽                 |                                 |
 | gland          | 腺体               |                                 |
 | cerebral       | 大脑的，理智的     |                                 |
+| cortex         | 皮层               | cerebral cortex                 |
 | mite           | 螨虫               |                                 |
 | vaccine        | 疫苗               |                                 |
 | avian flu      | 禽流感             |                                 |
@@ -428,6 +442,7 @@ $$
 | acoustic       | 听觉的             | acoustic nerve听觉神经          |
 | tumor          | 肿瘤               |                                 |
 | fauna          | 某一时期的动物群落 |                                 |
+| cataract       | 白内障             |                                 |
 |                |                    |                                 |
 
 ## Animal and Plants
@@ -438,10 +453,10 @@ $$
 | oak     | 橡树    |      |
 | conifer | 针叶树  |      |
 | algae   | 藻类    |      |
-|         |         |      |
+| foliage | 叶子    |      |
 |         |         |      |
 
-# Geographic Term
+# Geographical Term
 
 | Word         | Chinese     | note                |
 | ------------ | ----------- | ------------------- |
@@ -453,11 +468,15 @@ $$
 | meteorite    | 陨石        |                     |
 | seismic      | 地震的      | seismology地震学    |
 | nebular      | 星云        |                     |
+| comet | 彗星 | |
 | realm        | 领域        | academic realm      |
 | hydrologic   | 水文学      |                     |
 | corona       | 日冕，光环  |                     |
 | stratosphere | 平流层 |      |
 | troposphere | 对流层 |      |
+| celestial | 天上的 | celeste天蓝色 |
+| arid | 干旱的 | |
+|  |  | |
 
 
 
@@ -491,6 +510,8 @@ $$
   - salutary	有益的
   - sanguine  积极的
   - salubrious 有益的
+  - sanguine 乐观的
+  - propitious 有利的，吉祥的
 - negative
   - pessimistic	悲观的
   - passive 消极的
@@ -553,6 +574,7 @@ $$
   - crafty (贬，狡猾)
   - canny (精明狡猾)
   - sophisticate (世故老练的)
+  - worldly-wise
   - (n.)acumen
 - creative
    - ingenious (暗示创造发明才能)
@@ -594,7 +616,9 @@ $$
    - explicit
    - unambiguous
    - comprehensible
-   - 
+- tedious
+   - verbose
+   - arid
 - mixed
    - heterogeneous
    - assorted
@@ -689,6 +713,10 @@ $$
    - boost
    - perfect (v.)
    - augment (v, n)
+- admit 承认
+   - confess
+   - concede (让步)
+   - grant 授予
 
 ### Noun
 
@@ -1116,7 +1144,7 @@ caricature	讽刺(用漫画讽刺)
 ```
 不合历史的:
 	ahistorical
-	anachronistic
+	anachronistic (过时的，时代错误的)
 ```
 
 ```
@@ -1141,6 +1169,46 @@ imminent	迫近的
 belie	证明...是错的
 austere	简朴的
 erode	腐蚀
+```
+
+### 9.06
+
+```
+chronicle	编年史		
++	ana-	错误的，分开的
+=>	anachronistic	过时的，时代错误的
+```
+
+```
+be central to	对...很重要
+prevailing wisdom	流行的看法
+referenda	公民投票
+election	选举
+```
+
+````
+peruse	考察研究
+orthography	正写法（正确拼写）
+fastidious	讲究的
+pretentious	自命不凡的   vs	defiant	挑衅的
+````
+
+```
+impediment	障碍	=>	impenetrable	不可穿越的
+```
+
+```
+erstwhile	往昔  ==	past
+```
+
+```
+rampant	猖獗
+rampant in 	==	ubiquitous in	到处都有
+```
+
+```
+wordly-wise	精于世故的
+narcissistic	自恋的		<==>	self-flattery	自我拍马屁的
 ```
 
 
