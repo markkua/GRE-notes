@@ -1435,13 +1435,13 @@ technocrat	科技主义者		democrat	民主统治
 >
 > mobocrat	暴民统治
 
-exacerbate	使...恶化
+**exacerbate	使...恶化**
 
 
 
 ill-timed	生不逢时
 
-fatality	死亡n.
+**fatality	死亡n.**
 
 dilute	稀释
 
@@ -1479,9 +1479,37 @@ revenue	税收	$\sum tax = revenue$
 
 offset	抵消、补偿
 
-excessive	过分的，严重的
+**excessive	过分的，严重的**
 
 intact	完整的
+
+
+
+**illuminate	阐释**
+
+scholar	学者
+
+classic	古希腊、罗马文学
+
+**deliberation	深思熟虑**
+
+> deliberate	故意的；深思熟虑的；从容不迫的；仔细考虑v.
+
+contemporary	当代的、同龄人
+
+**impart	传授**
+
+association
+
+assertion
+
+**context	上下文**
+
+extemporaneous	即兴的
+
+conjunction	结合
+
+
 
 
 
