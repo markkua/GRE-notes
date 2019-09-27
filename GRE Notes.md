@@ -1,15 +1,6 @@
-
-
-
-
-
-
-# Catalog
 [TOC]
 
 ------
-
-
 
 # Polysemy
 
@@ -216,6 +207,13 @@
   n. 决心
   ```
 
+- **succumb**
+
+  ```
+  v. 屈服
+  v. 死亡	 ~ to cancer 死于癌症
+  ```
+
 - **secure**
 
   ```
@@ -291,6 +289,9 @@
 | distinguish          | distinct                   |
 | compound             | component                  |
 | journal              | journey                    |
+| radiant              | radius                     |
+| specious             | species                    |
+| reflection           | refraction                 |
 |                      |                            |
 
 
@@ -299,57 +300,61 @@
 
 ## Math Term
 
-| Term                | Chinese    | Equation      |
-| ------------------- | ---------- | ------------- |
-| **Operator**        | **运算**   |               |
-| product             | 乘积       |               |
-| minus               | 减         |               |
-| prime factor        | 质因子     |               |
-|                     |            |               |
-| **Geometric**       | **几何**   |               |
-| perimeter           | 周长       |               |
-| plane               | 平面       |               |
-| parallel            | 平行的     |               |
-| perpendicular       | 垂直的     |               |
-| tangent             | 相切的     |               |
-| intersect           | 相交       |               |
-| skew                | 斜交       |               |
-| inscribed           | 内接于     |               |
-| isosceles           | 等腰的     |               |
-| equilateral         | 等边的     |               |
-| slope               | 斜率，斜坡 |               |
-| cylinder            | 柱状       |               |
-| cone                | 锥         | circle cone圆 |
-| diagonal            | 对角的     |               |
-| adjacent            | 相邻的     |               |
-| vertex              | 顶点       | 复数vertices  |
-|                     |            |               |
-| **Noun**            |            |               |
-| odd number          | 奇数       |               |
-| even number         | 偶数       |               |
-| remainder           | 余数       |               |
-| phase               | 相位       |               |
-| fraction            | 分数 (1/4) |               |
-| inequality          | 不等式     |               |
-| algebra             | 代数       |               |
-|                     |            |               |
-| **Statics**         | 统计       |               |
-| standard deviation  | 标准差     |               |
-| median              | 中位数     |               |
-| arithmetic mean     | 算数平均值 |               |
-| ratio               | 比例       |               |
-| proportion          | 比例       |               |
-| normal distribution | 正态分布   |               |
-|                     |            |               |
-| **other**           |            |               |
-| constant            | 不变的     |               |
-| in checking account | 支票账户   |               |
-| expense             | 开支       |               |
-| asset               | 资产       |               |
-| down payment        | 首付       |               |
-| fraction            | 部分       |               |
-| mutually            | 互相地     |               |
-| revenue             | 收入，税收 |               |
+| Term                | Chinese                        | Equation      |
+| ------------------- | ------------------------------ | ------------- |
+| **Operator**        | **运算**                       |               |
+| product             | 乘积                           |               |
+| minus               | 减                             |               |
+| prime factor        | 质因子                         |               |
+|                     |                                |               |
+| **Geometric**       | **几何**                       |               |
+| perimeter           | 周长                           |               |
+| plane               | 平面                           |               |
+| parallel            | 平行的                         |               |
+| perpendicular       | 垂直的                         |               |
+| tangent             | 相切的                         |               |
+| intersect           | 相交                           |               |
+| skew                | 斜交                           |               |
+| inscribed           | 内接于                         |               |
+| isosceles           | 等腰的                         |               |
+| equilateral         | 等边的                         |               |
+| slope               | 斜率，斜坡                     |               |
+| cylinder            | 柱状                           |               |
+| cone                | 锥                             | circle cone圆 |
+| diagonal            | 对角的                         |               |
+| adjacent            | 相邻的                         |               |
+| vertex              | 顶点                           | 复数vertices  |
+|                     |                                |               |
+| **Noun**            |                                |               |
+| odd number          | 奇数                           |               |
+| even number         | 偶数                           |               |
+| remainder           | 余数                           |               |
+| phase               | 相位                           |               |
+| fraction            | 分数 (1/4)                     |               |
+| inequality          | 不等式                         |               |
+| algebra             | 代数                           |               |
+| matrices            | matrix的复数``` /'meɪtrɪks/``` |               |
+| axiom               | 公理                           |               |
+| theorem             | 定理                           |               |
+| law                 | 定律                           |               |
+|                     |                                |               |
+| **Statics**         | 统计                           |               |
+| standard deviation  | 标准差                         |               |
+| median              | 中位数                         |               |
+| arithmetic mean     | 算数平均值                     |               |
+| ratio               | 比例                           |               |
+| proportion          | 比例                           |               |
+| normal distribution | 正态分布                       |               |
+|                     |                                |               |
+| **other**           |                                |               |
+| constant            | 不变的                         |               |
+| in checking account | 支票账户                       |               |
+| expense             | 开支                           |               |
+| asset               | 资产                           |               |
+| down payment        | 首付                           |               |
+| fraction            | 部分                           |               |
+| mutually            | 互相地                         |               |
+| revenue             | 收入，税收                     |               |
 
 ## Notes for exam
 
@@ -407,7 +412,7 @@ $$
 | caffeine    | 咖啡因          |                               |
 | distill     | 蒸馏，提取      |                               |
 | erode       | 腐蚀            |                               |
-| dilute      | 稀释            |                               |
+| **dilute**  | **稀释**        |                               |
 |             |                 |                               |
 
 
@@ -443,6 +448,8 @@ $$
 | tumor          | 肿瘤               |                                 |
 | fauna          | 某一时期的动物群落 |                                 |
 | cataract       | 白内障             |                                 |
+| sperm          | 精子               |                                 |
+| ovum           | 卵子               |                                 |
 |                |                    |                                 |
 
 ## Animal and Plants
@@ -461,6 +468,7 @@ $$
 | Word         | Chinese     | note                |
 | ------------ | ----------- | ------------------- |
 | terrestrial  | adj. 陆地的 |                     |
+| topographic | 地形的 | |
 | tropical     | 热带的      |                     |
 | Atlantic     | 大西洋      |                     |
 | arctic       | 北极的      |                     |
@@ -476,31 +484,78 @@ $$
 | troposphere | 对流层 |      |
 | celestial | 天上的 | celeste天蓝色 |
 | arid | 干旱的 | |
-|  |  | |
+| gregarious | 群居的 | |
+| reconnaissance | 勘测 | |
+| geomorphology | 地貌 | morph-形态的 |
 
+### Solar System
 
+- **Mercury**```/'mə:kjuri/```
+
+	smallest planet,
+
+	*traveling*
+
+- **Venus**
+
+	*love*
+
+- **Earth**
+
+	*land*
+
+	gods' mother
+
+- **Mars**
+
+	*war*
+
+- **Asteroid belt**
+
+- **Jupiter**
+
+	Zeus(Grecian name), gods' father
+
+- **Saturn**```/'sæt(ə)n/```
+
+	*agriculture*
+
+- **Uranus**
+
+	27 satellites
+
+- **Neptune**```/'neptju:n/```
+
+	Poseidon,  *sea*
 
 # Other jargon
 
-| Word         | Chinese        | note                    |
-| ------------ | -------------- | ----------------------- |
-| archaeology  | 考古学         | archaic古代的           |
-| epistemology | 认识论         |                         |
-| anthropology | 人类学         | anthro- 人类的          |
-|              |                |                         |
-| thermal      | 热量的         | thermal energy 热能     |
-|              |                |                         |
-| velocity     | 速度           |                         |
-| lever        | 杠杆           |                         |
-| transparent  | 透明的         |                         |
-| bog          | 沼泽           |                         |
-| Fahrenheit   | 华氏度         |                         |
-| Centigrade   | 摄氏度         |                         |
-| pejorative   | 贬义词，轻蔑语 |                         |
-| compliment   | 赞美之词       |                         |
-| monarchy     | 君主制         | -chy 后缀的  一般是 *制 |
-| autarchy     | 专制，独裁     |                         |
-| hierarchy    | 等级制度       |                         |
+| Word              | Chinese        | note                       |
+| ----------------- | -------------- | -------------------------- |
+| archaeology       | 考古学         | archaic古代的              |
+| epistemology      | 认识论         |                            |
+| anthropology      | 人类学         | anthro- 人类的             |
+| semantics         | 语言学         |                            |
+|                   |                |                            |
+| thermal           | 热量的         | thermal energy 热能        |
+| radiant           | 辐射的         | radiation辐射n.            |
+| **infrared (IR)** | **红外的**     | **infrared ray 红外线**    |
+| **ultraviolet**   | **紫外的**     | **ultraviolet ray 紫外线** |
+| particle          | 质点，粒子     | wave-particle duality      |
+| velocity          | 速度           |                            |
+| lever             | 杠杆           |                            |
+| transparent       | 透明的         |                            |
+| bog               | 沼泽           |                            |
+| Fahrenheit        | 华氏度         |                            |
+| Centigrade        | 摄氏度         |                            |
+| pejorative        | 贬义词，轻蔑语 |                            |
+| compliment        | 赞美之词       |                            |
+| monarchy          | 君主制         | -chy 后缀的  一般是 *制    |
+| autarchy          | 专制，独裁     |                            |
+| hierarchy         | 等级制度       |                            |
+| density           | 密度           | dense 浓密的               |
+| concentration     | 浓度           | concentrate 聚集           |
+| sediment          | 沉积物         |                            |
 
 # Synonyms
 
@@ -540,8 +595,12 @@ $$
    - requisite
    - compulsory
    - imperative (急需的)
-   - obligatory (必要的，必修)
    - indispensable
+   - imperative (迫切的)
+- important
+  
+   - obligatory (必要的，必修)
+   - important (重要的)
 - long-standing
    - perennial (常年)
    - permanent (永久)
@@ -551,16 +610,17 @@ $$
    - continual
    - perpetual
 - mannish
+  
   - masculine
 - economic
    - fiscal (会计的)
    - pecuniary (金钱的)
    - monetary
    - financial
-   - 
 - similar
    - resemble
    - analogous
+   - affinity (n. 吸引力，相似性，密切关系)
 - **smart** 
   - bright (口，机灵)
   - wise (有智慧)
@@ -626,11 +686,22 @@ $$
    - miscellaneous
    - motley
 - missing-old-things
-   - nostalgic
+   - nostalgic 怀旧的
    - retrospective (回溯的)
-- suspicious
+- suspicious 可疑的
    - skeptical
    - dubious
+- recalcitrant 桀骜不驯的
+   - pretentious	自命不凡的
+   - haughty		傲慢的  (类比  pride)
+   - pejorative	轻蔑语(n.)，轻蔑的(adj.)
+   - contemptuous 鄙视的轻蔑的
+- easy-change
+   - mercurial
+   - capricious
+- abnormal
+   - aberrant
+   - 
 
 ### Verb
 
@@ -651,8 +722,10 @@ $$
    - refute (语气强) 驳斥
    - confute 驳斥
    - contradict 反对，反驳
+   - controvert 反驳
    - counter 反驳
    - oppose (温和的)反对
+   - dispute 争吵 辩论
    - repudiate 拒绝，否认
    - deny 拒绝
    - reject 拒绝
@@ -717,6 +790,9 @@ $$
    - confess
    - concede (让步)
    - grant 授予
+- interpose 干涉 介入
+   - interference
+   - intervention
 
 ### Noun
 
@@ -743,6 +819,23 @@ $$
    - incongruity (不协调的)
    - at odds with
    - ambivalence(矛盾心理)
+- feature
+   - hallmark
+   - trait
+
+### Conjunction
+
+- Sometimes
+   - between times
+   - every once in a while
+   - once in a while
+   - now and then
+   - once in a way
+   - sporadic
+- although
+   - notwithstanding	尽管
+   - albeit
+   - even though
 
 # Notes for Verbal
 
@@ -751,6 +844,14 @@ $$
 ### Tips
 
 - 注意补充的部分，可能是两个 '-' 之间的，也可能是两个 ',' 之间的
+
+- address which of the issues related to ...  问的是以下哪个问题**有谈到**
+
+	> the passage addresses which of the following issues related to Glass's use of popular elements in his classical compositions
+	>
+	> 这段话讨论了以下哪些问题与格拉斯在古典作品中使用流行元素有关
+
+- 选项单独看，不要想选项之间的关系
 
 ### Conjunction
 
@@ -769,6 +870,10 @@ $$
 **in that** 因为
 
 > The book is good, *in that* it's well written, but I didn't actually enjoy reading it.
+
+**rather ** 然而
+
+> Rather, he is still single.
 
 ## Every-day notes
 
@@ -799,7 +904,7 @@ thwart		反对
 ```
 
 ```
-obstacle	障碍物
+obstacle	==	stymie		障碍物	
 hindrance	阻力
 snare		圈套
 ```
@@ -1210,6 +1315,175 @@ rampant in 	==	ubiquitous in	到处都有
 wordly-wise	精于世故的
 narcissistic	自恋的		<==>	self-flattery	自我拍马屁的
 ```
+
+### 9.08
+
+```
+maize	==	corn 玉米
+```
+
+### 9.10
+
+```
+abstemious	节制的	==	abstinent	节制的，禁欲的
+
+```
+
+### 9.15
+
+disinterested		客观的
+
+### 9.26
+
+marsh	沼泽
+
+> synonym: marsh,  swamp, bog
+
+sediment	沉积物
+
+evaporate	蒸发
+
+identical  vs   identify
+
+advocate	主张
+
+reassessment	= re+assess+ment
+
+in turn	反过来
+
+in time	最终
+
+
+
+particle	小颗粒
+
+susceptible	易受影响的
+
+disperse	消散、驱散
+
+impact	冲撞，冲击
+
+drift	漂移
+
+crater	火山口
+
+ensure	确保安全
+
+blast	爆炸
+
+A **is called into question** by B		A被B质疑
+
+### 9.27
+
+composer	作家
+
+revive	复兴		renaissance	文艺复兴
+
+
+
+obscure 	掩盖
+
+dispute	争论
+
+underscore = underline
+
+sparse	稀少的	<-->	spares	备件
+
+sparseness	疏忽
+
+superficial	肤浅的
+
+
+
+vain and prone to violence	对暴力的无力抵抗
+
+eminence	名声
+
+tumultuous	混乱的，无秩序的
+
+
+
+percept	察觉	=>	perceptible	可察觉的	=>	imperceptibly	不知不觉地
+
+
+
+pioneer	开荒者
+
+orthodox = conventional	常规的
+
+trifle	闲聊(浪费时间的)	=>	trifling	微不足道的，轻浮的
+
+eccentric	怪异的
+
+
+
+counterproductive	适得其反
+
+> counter-	反
+
+
+
+technocrat	科技主义者		democrat	民主统治
+
+> -crat	xx统治
+>
+> democrat = demo人民 + crat统治
+>
+> autocrat	独裁
+>
+> bureaucrat	财阀统治
+>
+> mobocrat	暴民统治
+
+exacerbate	使...恶化
+
+
+
+ill-timed	生不逢时
+
+fatality	死亡n.
+
+dilute	稀释
+
+proliferate	繁殖，增生
+
+supplant	替代
+
+pest	害虫
+
+rampant	疯狂的
+
+dairy	乳制品，奶业 ```/'deərɪ/```
+
+pasture	放牧，吃草
+
+
+
+catering	餐饮服务	<-->	ordinary restaurant
+
+banquet	宴会
+
+stringent	严格的
+
+subsequent	之后的
+
+
+
+circulation	循环，(报纸)发行量
+
+
+
+revenue	税收	$\sum tax = revenue$
+
+
+
+offset	抵消、补偿
+
+excessive	过分的，严重的
+
+intact	完整的
+
+
 
 
 
