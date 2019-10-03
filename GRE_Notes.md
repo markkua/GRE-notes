@@ -1804,6 +1804,12 @@ make out	≈	recognize	≈	identify
 
 
 
+denote
+
+
+
+
+
 ## Words from word book
 
 | Word             | Part of Speech | English Meaning                                         | Dictionary                                                   | Chinese          | Example                                                      |
