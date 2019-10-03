@@ -413,6 +413,7 @@ $$
 | distill     | 蒸馏，提取      |                               |
 | erode       | 腐蚀            |                               |
 | **dilute**  | **稀释**        |                               |
+| precipitate | 析出物          |                               |
 |             |                 |                               |
 
 
@@ -552,11 +553,16 @@ $$
 - Resistance  $R$
 	- ohm  $\Omega$
 
-| Word   | Chinese | Remark |
-| ------ | ------- | ------ |
-| photon | 光子    |        |
-|        |         |        |
-|        |         |        |
+| Word              | Chinese                | Remark |
+| ----------------- | ---------------------- | ------ |
+| photon            | 光子                   |        |
+| evaporation       | 蒸发                   |        |
+| moisture          | 水分                   |        |
+| vapor             | 水蒸气```/ˈveipə/```   |        |
+| humidity          | 湿度                   |        |
+| Celsius degree    | 摄氏度```/'selsiəs/``` |        |
+| Fahrenheit degree | 华氏度                 |        |
+|                   |                        |        |
 
 
 
@@ -741,7 +747,14 @@ $$
    - capricious
 - abnormal
    - aberrant
-   - 
+- plentiful
+   - abundant
+   - ample 满足需要且有余
+   - considerable
+   - appreciable
+   - respectable
+   - sizable(sizeable)
+   - hefty 大量，健壮
 
 ### Verb
 
@@ -771,6 +784,9 @@ $$
    - reject 拒绝
    - refuse 拒绝
    - decline (谢绝邀请)
+- reduce
+   - impair
+   - compromise 折中妥协，危害
 - end
   - break (非正式，休息)
   - rest
@@ -789,7 +805,7 @@ $$
    - deference(n.尊敬)
    - awe (n.敬畏)
 - indicate
-  
+
    - presage
    - portend
    - foreshadow
@@ -830,7 +846,7 @@ $$
    - confess
    - concede (让步)
    - grant 授予
-- prove 证实 [suspicious](#suspicious) <a name='prove'></a>
+- prove 证实  [suspicious](#suspicious) <a name='prove'></a>
    - corroborate
    - confirm
    - correspond
@@ -890,7 +906,7 @@ $$
 
 - 注意补充的部分，可能是两个 '-' 之间的，也可能是两个 ',' 之间的
 
-- address which of the issues related to ...  问的是以下哪个问题**有谈到**
+- the passage **addresses which of the issues** related to ...  问的是以下哪个问题**有谈到**
 
 	> the passage addresses which of the following issues related to Glass's use of popular elements in his classical compositions
 	>
@@ -1678,6 +1694,8 @@ be susceptible to	易受影响的
 
 
 
+### 10.03
+
 rival	竞争对手
 
 **we have yet to complete	还未完成**
@@ -1753,6 +1771,36 @@ indict	起诉
 controversial	引起争议的
 
 
+
+moisture	
+
+precipitate	析出物，沉淀物
+
+**evaporation of moisture	降水的蒸发**
+
+
+
+deposit	保证金，存款
+
+
+
+retrofit	翻新
+
+aesthetic	审美的
+
+
+
+cosmic	宇宙的
+
+disseminate	 传播
+
+vast	大量的
+
+
+
+perceptual = sensing	感知的
+
+make out	≈	recognize	≈	identify
 
 
 
