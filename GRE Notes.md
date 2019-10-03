@@ -473,10 +473,10 @@ $$
 | Atlantic     | 大西洋      |                     |
 | arctic       | 北极的      |                     |
 | antarctic    | 南极的      |                     |
-| meteorite    | 陨石        |                     |
+|                |             |                     |
 | seismic      | 地震的      | seismology地震学    |
-| nebular      | 星云        |                     |
-| comet | 彗星 | |
+|                |             |                     |
+|                |             | |
 | realm        | 领域        | academic realm      |
 | hydrologic   | 水文学      |                     |
 | corona       | 日冕，光环  |                     |
@@ -488,7 +488,20 @@ $$
 | reconnaissance | 勘测 | |
 | geomorphology | 地貌 | morph-形态的 |
 
-### Solar System
+### Astronomy
+
+| Word      | Chinese | Remark             |
+| --------- | ------- | ------------------ |
+| celestial | 天上的  | ```/sɪ'lestɪəl/``` |
+| cosmic    | 宇宙的  |                    |
+| meteorite | 陨石    |                    |
+| nebular   | 星云    |                    |
+| comet     | 彗星    |                    |
+| supernova | 超新星  |                    |
+
+
+
+#### Solar System
 
 - **Mercury**```/'mə:kjuri/```
 
@@ -528,6 +541,25 @@ $$
 
 	Poseidon,  *sea*
 
+# Physics term
+
+- Electron flow（Current）$I$
+
+	- ampere  $A$
+- Voltage  $U$
+
+	- volt  $V$
+- Resistance  $R$
+	- ohm  $\Omega$
+
+| Word   | Chinese | Remark |
+| ------ | ------- | ------ |
+| photon | 光子    |        |
+|        |         |        |
+|        |         |        |
+
+
+
 # Other jargon
 
 | Word              | Chinese        | note                       |
@@ -542,6 +574,9 @@ $$
 | **infrared (IR)** | **红外的**     | **infrared ray 红外线**    |
 | **ultraviolet**   | **紫外的**     | **ultraviolet ray 紫外线** |
 | particle          | 质点，粒子     | wave-particle duality      |
+|                   |                |                            |
+|                   |                |                            |
+|                   |                |                            |
 | velocity          | 速度           |                            |
 | lever             | 杠杆           |                            |
 | transparent       | 透明的         |                            |
@@ -645,10 +680,15 @@ $$
    - salient
    - extraordinary
    - outstanding
+   - prominent
+   - distinguished
    - exceeding
    - exceptional
    - prodigious (异常的，惊人的)
    - surpassing
+   - stunning 极好的
+   - eminent (出名的)
+   - terrific 极大的，了不起的
 - difficult-to-understand
    - arcane
    - abstract
@@ -688,7 +728,7 @@ $$
 - missing-old-things
    - nostalgic 怀旧的
    - retrospective (回溯的)
-- suspicious 可疑的
+- suspicious 可疑的 [prove](#prove)<a name="suspicious"></a>
    - skeptical
    - dubious
 - recalcitrant 桀骜不驯的
@@ -705,7 +745,7 @@ $$
 
 ### Verb
 
-- annul
+- annul 使无效
   - neutralize
   - invalidate
   - negate
@@ -790,6 +830,11 @@ $$
    - confess
    - concede (让步)
    - grant 授予
+- prove 证实 [suspicious](#suspicious) <a name='prove'></a>
+   - corroborate
+   - confirm
+   - correspond
+   - jibe with
 - interpose 干涉 介入
    - interference
    - intervention
@@ -1381,13 +1426,13 @@ revive	复兴		renaissance	文艺复兴
 
 
 
-obscure 	掩盖
+obscure 	掩盖，模糊的
 
 dispute	争论
 
 underscore = underline
 
-sparse	稀少的	<-->	spares	备件
+sparse	稀少的```/spɑːs/```	<-->	spares	备件
 
 sparseness	疏忽
 
@@ -1510,6 +1555,202 @@ extemporaneous	即兴的
 conjunction	结合
 
 
+
+### 9.29
+
+puny	微不足道的```/'pjuːnɪ/```
+
+goose bump	鸡皮疙瘩
+
+flush	脸红
+
+regulate	调节
+
+thermo-	热
+
+> thermoregulation	热调节系统
+>
+> thermoalloy	热敏合金
+
+distinguish	区别v.	==>	**distinguished	卓越的**
+
+prominent	卓越的
+
+intellectual	知识分子n.	理智的adj.
+
+ammunition	弹药，军火
+
+obsolete	陈旧的```/'ɒbsəliːt/```
+
+exemplify	证实	<==	example
+
+**composite	综合的，合成的**
+
+rival	竞争者
+
+constitute	建立
+
+**relic	遗产**
+
+philosophy	哲学
+
+espousal	拥护	```/ɪ'spaʊz(ə)l/```
+
+**liberty	自由**
+
+
+
+supernovas	超新星
+
+cosmic ray
+
+**radiation**
+
+quasar
+
+conspicuous	显眼的
+
+collide	冲突，碰撞
+
+photon	光子
+
+pervasive = ubiquitous
+
+odds	机率
+
+favor	喜爱
+
+retain	保持
+
+**in the course of	在...过程中**
+
+
+
+pioneer	开荒者
+
+pastime	娱乐消遣
+
+noble	贵族，高端的
+
+hasten	加速
+
+overdue	迟到
+
+feminist	女权主义者
+
+affirm	断言
+
+advancement	提拔晋升
+
+**<u>虚拟语气的倒装</u>**
+
+> its impact would have been modest **<u>had it</u>** not attracted a greater ...
+>
+> 如果没有吸引更多的..., 它的影响力也只能说是平凡...
+
+
+
+sustain	持续	==>	sustainable	可持续发展的
+
+boast	自吹自擂
+
+
+
+### 10.02
+
+pioneer	开拓者，先驱
+
+noble	贵族的
+
+elaborate	详细说明
+
+composer	vs	compound
+
+
+
+court	奉承
+
+woo	向...示好
+
+propagandize	宣传
+
+be susceptible to	易受影响的
+
+
+
+rival	竞争对手
+
+**we have yet to complete	还未完成**
+
+trivial	琐碎的
+
+daunting	令人却步的
+
+
+
+deception	骗术	deceptive	误导的
+
+exploit	开发，利用，剥削
+
+
+
+stylistic conventions	文体惯例(八股文)
+
+
+
+**anything but = not	==>	anything but ineffective = effective**
+
+
+
+pathetic	可悲的
+
+
+
+era	年代
+
+acquisitive	贪婪的
+
+intimate	亲密的；私人的；精通的；[婉]有性关系的
+
+
+
+elegant = polish	优雅的，精良的
+
+exact a toll	承担代价
+
+
+
+excise	切除；消费税
+
+erode	侵蚀	<==>	rust	生锈
+
+augment	=	consolidate	扩大
+
+
+
+textile	纺织品
+
+glaring	耀眼的
+
+omission	忽略
+
+outnumber	数量上超过v.
+
+wage	薪水
+
+indices	pl.<==	index
+
+suppress	压制，镇压
+
+**and the like	等等(etc.)**
+
+rule out	排除
+
+
+
+indict	起诉
+
+controversial	引起争议的
 
 
 
