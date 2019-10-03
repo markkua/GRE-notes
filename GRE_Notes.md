@@ -300,63 +300,110 @@
 
 ## Math Term
 
-| Term                | Chinese                        | Equation      |
-| ------------------- | ------------------------------ | ------------- |
-| **Operator**        | **运算**                       |               |
-| product             | 乘积                           |               |
-| minus               | 减                             |               |
-| prime factor        | 质因子                         |               |
-|                     |                                |               |
-| **Geometric**       | **几何**                       |               |
-| perimeter           | 周长                           |               |
-| plane               | 平面                           |               |
-| parallel            | 平行的                         |               |
-| perpendicular       | 垂直的                         |               |
-| tangent             | 相切的                         |               |
-| intersect           | 相交                           |               |
-| skew                | 斜交                           |               |
-| inscribed           | 内接于                         |               |
-| isosceles           | 等腰的                         |               |
-| equilateral         | 等边的                         |               |
-| slope               | 斜率，斜坡                     |               |
-| cylinder            | 柱状                           |               |
-| cone                | 锥                             | circle cone圆 |
-| diagonal            | 对角的                         |               |
-| adjacent            | 相邻的                         |               |
-| vertex              | 顶点                           | 复数vertices  |
-|                     |                                |               |
-| **Noun**            |                                |               |
-| odd number          | 奇数                           |               |
-| even number         | 偶数                           |               |
-| remainder           | 余数                           |               |
-| phase               | 相位                           |               |
-| fraction            | 分数 (1/4)                     |               |
-| inequality          | 不等式                         |               |
-| algebra             | 代数                           |               |
-| matrices            | matrix的复数``` /'meɪtrɪks/``` |               |
-| axiom               | 公理                           |               |
-| theorem             | 定理                           |               |
-| law                 | 定律                           |               |
-|                     |                                |               |
-| **Statics**         | 统计                           |               |
-| standard deviation  | 标准差                         |               |
-| median              | 中位数                         |               |
-| arithmetic mean     | 算数平均值                     |               |
-| ratio               | 比例                           |               |
-| proportion          | 比例                           |               |
-| normal distribution | 正态分布                       |               |
-|                     |                                |               |
-| **other**           |                                |               |
-| constant            | 不变的                         |               |
-| in checking account | 支票账户                       |               |
-| expense             | 开支                           |               |
-| asset               | 资产                           |               |
-| down payment        | 首付                           |               |
-| fraction            | 部分                           |               |
-| mutually            | 互相地                         |               |
-| revenue             | 收入，税收                     |               |
+| Term                                          | Chinese                        | Equation      |
+| --------------------------------------------- | ------------------------------ | ------------- |
+| **Noun**                                      |                                |               |
+| odd number                                    | 奇数                           |               |
+| even number                                   | 偶数                           |               |
+| remainder                                     | 余数                           |               |
+| divisor                                       | 因子                           |               |
+| units(ones) digit, tens digit, hundreds digit | 个位、十位、百位...            |               |
+| fraction, numerator, denominator              | 分数，分子，分母               |               |
+| term                                          | 项                             |               |
+| (order of) magnitude                          | 数量级                         |               |
+| phase                                         | 相位                           |               |
+| fraction                                      | 分数 (1/4)                     |               |
+| inequality                                    | 不等式                         |               |
+| algebra                                       | 代数                           |               |
+| matrices                                      | matrix的复数``` /'meɪtrɪks/``` |               |
+| axiom                                         | 公理                           |               |
+| theorem                                       | 定理                           |               |
+| law                                           | 定律                           |               |
+|                                               |                                |               |
+| **Operator**                                  | **运算**                       |               |
+| product                                       | 乘积                           |               |
+| minus                                         | 减                             |               |
+| prime factor                                  | 质因子                         |               |
+|                                               |                                |               |
+|                                               |                                |               |
+|                                               |                                |               |
+| **Geometric**                                 | **几何**                       |               |
+| perimeter                                     | 周长                           |               |
+| plane                                         | 平面                           |               |
+| parallel                                      | 平行的                         |               |
+| perpendicular                                 | 垂直的                         |               |
+| tangent                                       | 相切的                         |               |
+| intersect                                     | 相交                           |               |
+| skew                                          | 斜交                           |               |
+| inscribed                                     | 内接于                         |               |
+| isosceles                                     | 等腰的                         |               |
+| equilateral                                   | 等边的                         |               |
+| right triangle                                | 直角三角形                     |               |
+| isosceles right triangle                      | 等腰直角三角形                 |               |
+| slope                                         | 斜率，斜坡                     |               |
+| cylinder                                      | 柱状                           |               |
+| cone                                          | 锥                             | circle cone圆 |
+| diagonal                                      | 对角的                         |               |
+| adjacent                                      | 相邻的                         |               |
+| vertex                                        | 顶点                           | 复数vertices  |
+|                                               |                                |               |
+|                                               |                                |               |
+| **Statics**                                   | 统计                           |               |
+| standard deviation                            | 标准差                         |               |
+| median                                        | 中位数                         |               |
+| arithmetic mean                               | 算数平均值                     |               |
+| ratio                                         | 比例                           |               |
+| proportion                                    | 比例                           |               |
+| normal distribution                           | 正态分布                       |               |
+|                                               |                                |               |
+| **other**                                     |                                |               |
+| constant                                      | 不变的                         |               |
+| in checking account                           | 支票账户                       |               |
+| expense                                       | 开支                           |               |
+| asset                                         | 资产                           |               |
+| down payment                                  | 首付                           |               |
+| fraction                                      | 部分                           |               |
+| mutually                                      | 互相地                         |               |
+| revenue                                       | 收入，税收                     |               |
+
+### Units
+
+cent 美分　 penny 一美分硬币 　 nickel 5美分硬币　 dime 一角硬币　 dozen 打(12个)　 score 廿(20个)　 Centigrade 摄氏　 Fahrenheit 华氏　 quart 夸脱　 gallon 加仑(1 gallon = 4 quart)　 yard 码　 meter 米　 micron 微米　 inch 英寸　 foot 英尺　 minute 分(角度的度量单位，60分=1度)　 square [measure](http://top.zhan.com/cihui/ielts-measure.html) 平方单位制　 cubic meter 立方米　 pint 品脱(干量或液量的单位)
+
+### Commercial terms
+
+intercalary year(leap year) 闰年(366天)　 common year 平年(365天)　 depreciation 折旧　 down payment 直接付款　 discount 打折　 margin 利润 profit 利润　 interest 利息　 simple interest 单利　 compounded interest 复利　 dividend 红利　 decrease to 减少到　 decrease by 减少了　 increase to 增加到　 increase by 增加了　 denote 表示　 list price 标价　 markup 涨价　 per capita 每人　 ratio 比率　 retail price 零售价　 tie 打平
+
+### Professional Expressions
+
+- **twice as A as B:	A是B的两倍**
+
+- **consecutive integers		连续整数**		
+
+- arithmetic  mean   算数平均值
+
+- denote : f(x) denote the sum of ...
+
+
 
 ## Notes for exam
+
+### Time of a day
+
+**看清楚时间！	noon, midnight, am, pm**
+
+12 am表示半夜十二点，等于12 midnight；(ante meridiem, before midday 中午之前)
+
+12 pm表示中午十二点，等于12 noon；(post meridiem, after midday 中午之后)
+
+```mermaid
+graph LR
+A[12:00am, 10.1] --> B[11:59am, 10.1]
+	B --> C[12:01pm, 10.1]
+	C --> D[1:00pm, 10.1]
+	D --> E[11:59pm, 10.1]
+	E --> F[12:00am, 10.2]
+```
 
 ### Graphic
 
@@ -552,6 +599,11 @@ $$
 	- volt  $V$
 - Resistance  $R$
 	- ohm  $\Omega$
+- power $P$
+	- watt $W$
+- work $W$
+	- joule $J$ ```/dʒuːl/```
+- 
 
 | Word              | Chinese                | Remark |
 | ----------------- | ---------------------- | ------ |
@@ -1804,7 +1856,7 @@ make out	≈	recognize	≈	identify
 
 
 
-denote
+
 
 
 
