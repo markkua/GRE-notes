@@ -348,8 +348,8 @@
 | vertex                                        | 顶点                           | 复数vertices  |
 |                                               |                                |               |
 |                                               |                                |               |
-| **Statics**                                   | 统计                           |               |
-| standard deviation                            | 标准差                         |               |
+| **STATISTICS**                                | 统计                           |               |
+| **standard deviation**                        | **标准差**                     |               |
 | median                                        | 中位数                         |               |
 | arithmetic mean                               | 算数平均值                     |               |
 | ratio                                         | 比例                           |               |
@@ -377,12 +377,10 @@ intercalary year(leap year) 闰年(366天)　 common year 平年(365天)　 depr
 ### Professional Expressions
 
 - **twice as A as B:	A是B的两倍**
-
-- **consecutive integers		连续整数**		
-
+- **consecutive integers		连续整数**
 - arithmetic  mean   算数平均值
-
-- denote : f(x) denote the sum of ...
+- denote : f(x) denote the sum of ...、
+- 离散 vs 连续:  discrete vs consecutive
 
 
 
@@ -679,6 +677,14 @@ $$
    - sufficient (正式)
    - adequate (数量上够)
    - decent
+   - ample
+- inadequate
+   - insufficient
+   - deprived
+   - bereft
+   - devoid
+   - deficient
+   - depleted
 - everywhere
   - **ubiquitous**
   - pervasive
@@ -987,6 +993,18 @@ $$
 **rather ** 然而
 
 > Rather, he is still single.
+
+### Double Negative
+
+it is wrong / presumptuous / foolish   to say that ...
+
+paradoxical / ironical /puzzling/ ...
+
+far from... / instead of .../
+
+hardly / seldom
+
+
 
 ## Every-day notes
 
@@ -1852,17 +1870,47 @@ vast	大量的
 
 perceptual = sensing	感知的
 
-make out	≈	recognize	≈	identify
+make out	≈	recognise	≈	identify
 
 
 
 ### 10.04
 
+tempo	
 
+discrete			分离的
 
+dubious			可疑的
 
+ample			大量的
 
+chronological			按时间顺序的
 
+> chrono- 表示时间
+>
+> chronometer	精密时钟
+>
+> chronology	年代学
+
+paucity			缺乏
+
+stem			主干
+
+activist			激进分子
+
+prodigious			异常的，惊人的，巨大的
+
+suffrage				选举权，赞成票n.
+
+> universal suffrage 	普选权
+
+belie			掩饰；与…不符；使失望；证明…虚假错误
+
+temperance
+
+**on behalf of			代表，为了**
+
+inimical	≈	hostile			有敌意的
 
 
 
