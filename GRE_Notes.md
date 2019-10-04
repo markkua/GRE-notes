@@ -292,7 +292,7 @@
 | radiant              | radius                     |
 | specious             | species                    |
 | reflection           | refraction                 |
-|                      |                            |
+| anonymous            | antonym                    |
 
 
 
@@ -640,6 +640,8 @@ $$
 | Fahrenheit        | 华氏度         |                            |
 | Centigrade        | 摄氏度         |                            |
 | pejorative        | 贬义词，轻蔑语 |                            |
+| antonym           | 反义词         |                            |
+| synonym           | 同义词         |                            |
 | compliment        | 赞美之词       |                            |
 | monarchy          | 君主制         | -chy 后缀的  一般是 *制    |
 | autarchy          | 专制，独裁     |                            |
@@ -654,17 +656,22 @@ $$
 
 - affirmative
   - salutary	有益的
+  - advantageous
   - sanguine  积极的
   - salubrious 有益的
   - sanguine 乐观的
   - propitious 有利的，吉祥的
+  - advocate  v.支持
+  
 - negative
   - pessimistic	悲观的
   - passive 消极的
   - equivocal 黑暗的
+  - adverse  负面的
   - harmful
      - pernicious 
      - deleterious
+  
 - for description
    - apposite 贴切的
       - germane
@@ -672,23 +679,13 @@ $$
       - objective 客观的
    - improper
       - inapposite
-      - 
-- enough
-   - sufficient (正式)
-   - adequate (数量上够)
-   - decent
-   - ample
-- inadequate
-   - insufficient
-   - deprived
-   - bereft
-   - devoid
-   - deficient
-   - depleted
+   - exaggerated  夸张的
+   
 - everywhere
   - **ubiquitous**
   - pervasive
   - universal
+  
 - necessary
    - required
    - requisite
@@ -696,10 +693,12 @@ $$
    - imperative (急需的)
    - indispensable
    - imperative (迫切的)
+   
 - important
   
    - obligatory (必要的，必修)
    - important (重要的)
+   
 - long-standing
    - perennial (常年)
    - permanent (永久)
@@ -708,18 +707,30 @@ $$
    - continuing
    - continual
    - perpetual
+   
 - mannish
   
   - masculine
+  
+- hostile
+
+   - adversarial
+   - aggressive
+   - belligerent
+   - antagonistic
+   - inimical
+
 - economic
    - fiscal (会计的)
    - pecuniary (金钱的)
    - monetary
    - financial
+   
 - similar
    - resemble
    - analogous
    - affinity (n. 吸引力，相似性，密切关系)
+   
 - **smart** 
   - bright (口，机灵)
   - wise (有智慧)
@@ -728,31 +739,49 @@ $$
   - deft (灵巧的，机敏的)
   - apt
   - perceptive (洞察力强)
+  - acute (敏锐，洞察力强)
   - shrewd (精明老练)
   - astute (精明)
+  - adroit (精明，熟练)
   - crafty (贬，狡猾)
   - canny (精明狡猾)
   - sophisticate (世故老练的)
   - worldly-wise
   - (n.)acumen
+  
 - creative
    - ingenious (暗示创造发明才能)
    - artful (机灵的)
    - originative (有创作力的)
    - adroit (熟练的，灵活的)  be adroit at ...
+   
 - excellent
    - salient
+   
    - extraordinary
+   
    - outstanding
+   
    - prominent
+   
    - distinguished
+   
    - exceeding
+   
    - exceptional
+   
    - prodigious (异常的，惊人的)
+   
    - surpassing
+   
    - stunning 极好的
+   
    - eminent (出名的)
+   
    - terrific 极大的，了不起的
+   
+   	
+   
 - difficult-to-understand
    - arcane
    - abstract
@@ -773,6 +802,7 @@ $$
    - equivocal (模棱两可)
    - ambiguous (模糊不清模棱两可)
    - inscrutable (不可理解的，谜一样的)
+   
 - clear
    - lucid
    - intelligible
@@ -780,31 +810,40 @@ $$
    - explicit
    - unambiguous
    - comprehensible
+   
 - tedious
    - verbose
    - arid
+   
 - mixed
    - heterogeneous
    - assorted
    - inhomogeneous
    - miscellaneous
    - motley
+   
 - missing-old-things
    - nostalgic 怀旧的
    - retrospective (回溯的)
+   
 - suspicious 可疑的 [prove](#prove)<a name="suspicious"></a>
    - skeptical
    - dubious
+   
 - recalcitrant 桀骜不驯的
    - pretentious	自命不凡的
    - haughty		傲慢的  (类比  pride)
    - pejorative	轻蔑语(n.)，轻蔑的(adj.)
    - contemptuous 鄙视的轻蔑的
+   
 - easy-change
    - mercurial
    - capricious
+   
 - abnormal
+   
    - aberrant
+   
 - plentiful
    - abundant
    - ample 满足需要且有余
@@ -813,6 +852,27 @@ $$
    - respectable
    - sizable(sizeable)
    - hefty 大量，健壮
+   
+- enough
+
+   - sufficient (正式)
+   - adequate (数量上够)
+   - decent
+   - ample
+   - affluent (丰富，富裕)
+
+- inadequate
+
+   - insufficient
+   - deprived
+   - bereft
+   - devoid
+   - deficient
+   - depleted
+
+- abstemious	节制的	
+
+   - abstinent
 
 ### Verb
 
@@ -828,9 +888,14 @@ $$
   - rebuke (上对下的责备)
   - denounce (= condemn)
   - reproach (责备他人的粗心、自私等)
+  - reprove (责骂)
+  - reprimand (责难)
   - decry (公开反对，谴责)
+  - admonish  (警告，责备，劝告)
+  - chide ```/tʃaɪd/```
 - refute
    - refute (语气强) 驳斥
+   - repulse 驳斥
    - confute 驳斥
    - contradict 反对，反驳
    - controvert 反驳
@@ -842,7 +907,7 @@ $$
    - reject 拒绝
    - refuse 拒绝
    - decline (谢绝邀请)
-- reduce
+- damage (reduce)
    - impair
    - compromise 折中妥协，危害
 - end
@@ -899,19 +964,36 @@ $$
    - ameliorate
    - boost
    - perfect (v.)
-   - augment (v, n)
-- admit 承认
-   - confess
-   - concede (让步)
-   - grant 授予
+   - augment (v, n，增强，扩大)
+   - ameliorate 改善
 - prove 证实  [suspicious](#suspicious) <a name='prove'></a>
    - corroborate
    - confirm
+   - affirm
+   - certify
    - correspond
    - jibe with
+   - admit 承认
+   - confess
+   - concede (让步)
+   - grant 授予
 - interpose 干涉 介入
    - interference
    - intervention
+- attract  吸引，诱惑
+   - charm 
+   - allure
+   - captivate
+   - fascinate
+   - enchant
+   - seduce
+   - tempt
+- dislike
+   - hate
+   - detest
+   - disgust
+   - loathe v. 厌恶    (loath=loth  adj.不情愿的)
+   - anathema (n. 憎恶的事)
 
 ### Noun
 
@@ -937,10 +1019,13 @@ $$
    - opposite
    - incongruity (不协调的)
    - at odds with
-   - ambivalence(矛盾心理)
+   - ambivalence(矛盾心理)  ambivalent 犹豫不决的，矛盾的
 - feature
    - hallmark
    - trait
+- lie
+   - mendacity
+   - prevarication  推诿搪塞
 
 ### Conjunction
 
@@ -955,6 +1040,8 @@ $$
    - notwithstanding	尽管
    - albeit
    - even though
+- however
+   - rather
 
 # Notes for Verbal
 
@@ -1884,13 +1971,15 @@ dubious			可疑的
 
 ample			大量的
 
-chronological			按时间顺序的
+**chronological			按时间顺序的**
 
 > chrono- 表示时间
 >
 > chronometer	精密时钟
 >
 > chronology	年代学
+>
+> anachronistic 		过时的
 
 paucity			缺乏
 
@@ -1911,6 +2000,42 @@ temperance
 **on behalf of			代表，为了**
 
 inimical	≈	hostile			有敌意的
+
+
+
+utilitarian			多功能的
+
+> scratch			抓伤，划痕
+>
+> sunroof			天窗
+>
+> tow				拖车
+>
+> boot				行李箱
+
+anecdote			奇闻轶事
+
+garrulous			话多的
+
+> antonym:
+>
+> laconic			简洁的	
+>
+> taciturn			沉默寡言
+
+lie
+
+> mendacity
+>
+> prevarication	prevaricate	搪塞，说谎
+
+encore	```/'ɒŋkɔː/```	再来一首
+
+secure			绑紧,使安全v.	牢固的adj.
+
+altruistic	=	unselfish			无私的
+
+
 
 
 
