@@ -1081,6 +1081,10 @@ $$
 
 > Rather, he is still single.
 
+ **willy-nilly**	不管三七二十一，随意地，不情愿地
+
+> It upsets Sheldon when she willy-nilly takes food from the containers.
+
 ### Double Negative
 
 it is wrong / presumptuous / foolish   to say that ...
@@ -2035,7 +2039,25 @@ secure			绑紧,使安全v.	牢固的adj.
 
 altruistic	=	unselfish			无私的
 
+ream
 
+extensive
+
+deck screen		仪表盘
+
+susceptible			易受影响的
+
+rigorous
+
+malfunction			故障
+
+combo			组合	  equipment combo	设备组合
+
+aviation
+
+blatenly
+
+plummet
 
 
 
