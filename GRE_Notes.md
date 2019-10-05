@@ -321,6 +321,7 @@
 | law                                           | 定律                           |               |
 |                                               |                                |               |
 | **Operator**                                  | **运算**                       |               |
+| multiply                                      | 乘                             |               |
 | product                                       | 乘积                           |               |
 | minus                                         | 减                             |               |
 | prime factor                                  | 质因子                         |               |
@@ -521,8 +522,10 @@ $$
 | antarctic    | 南极的      |                     |
 |                |             |                     |
 | seismic      | 地震的      | seismology地震学    |
-|                |             |                     |
-|                |             | |
+| Mount Everest(Qomolangma) | 珠穆朗玛峰 |  |
+| Himalayas | 喜马拉雅山 |  |
+| glacier | 冰川 |                     |
+| cliff | 悬崖 | |
 | realm        | 领域        | academic realm      |
 | hydrologic   | 水文学      |                     |
 | corona       | 日冕，光环  |                     |
@@ -625,6 +628,9 @@ $$
 | anthropology      | 人类学         | anthro- 人类的             |
 | semantics         | 语言学         |                            |
 |                   |                |                            |
+| prefix            | 前缀           |                            |
+| sufix             | 后缀           |                            |
+|                   |                |                            |
 | thermal           | 热量的         | thermal energy 热能        |
 | radiant           | 辐射的         | radiation辐射n.            |
 | **infrared (IR)** | **红外的**     | **infrared ray 红外线**    |
@@ -662,6 +668,7 @@ $$
   - sanguine 乐观的
   - propitious 有利的，吉祥的
   - advocate  v.支持
+  - approbate v.支持
   
 - negative
   - pessimistic	悲观的
@@ -671,9 +678,13 @@ $$
   - harmful
      - pernicious 
      - deleterious
+  - opposite
+     - antithetical
   
 - for description
-   - apposite 贴切的
+   - apposite                贴切的
+      - pertinent
+      - appropriate
       - germane
       - felicitous
       - objective 客观的
@@ -829,6 +840,8 @@ $$
 - suspicious 可疑的 [prove](#prove)<a name="suspicious"></a>
    - skeptical
    - dubious
+   - apocryphal
+   - 
    
 - recalcitrant 桀骜不驯的
    - pretentious	自命不凡的
@@ -841,7 +854,7 @@ $$
    - capricious
    
 - abnormal
-   
+  
    - aberrant
    
 - plentiful
@@ -887,13 +900,24 @@ $$
   - scold (上对下的数落)
   - rebuke (上对下的责备)
   - denounce (= condemn)
+  - animadvert
   - reproach (责备他人的粗心、自私等)
   - reprove (责骂)
   - reprimand (责难)
   - decry (公开反对，谴责)
   - admonish  (警告，责备，劝告)
   - chide ```/tʃaɪd/```
+- claim
+  
+   - insist
+   - declare
+   - allege
+   - affirm
+   - maintain
+   - testify
+   - assert
 - refute
+  
    - refute (语气强) 驳斥
    - repulse 驳斥
    - confute 驳斥
@@ -902,11 +926,17 @@ $$
    - counter 反驳
    - oppose (温和的)反对
    - dispute 争吵 辩论
+   
+- refuse 拒绝
+  
    - repudiate 拒绝，否认
    - deny 拒绝
    - reject 拒绝
-   - refuse 拒绝
    - decline (谢绝邀请)
+- discuss
+   - negotiate (商谈)
+   - confer (交换意见)  协商；授予
+   - consult (咨询)
 - damage (reduce)
    - impair
    - compromise 折中妥协，危害
@@ -918,7 +948,11 @@ $$
   - recess (正式，休息)
   - cease (正式，结束)
   - stop (终止)
-  - vanish (消失，消亡)
+- disappear, destroy
+
+   - annihilate (消失，毁灭)
+   - vanish (消失)
+   - dissolve
 - respect
    - esteem
    - admire
@@ -936,6 +970,7 @@ $$
    - betoken
    - forecast
    - predict
+   - anticipate
    - augury (占卜)
    - forebode (对不祥之事)
    - presentiment (n. 对不祥之事)
@@ -994,6 +1029,14 @@ $$
    - disgust
    - loathe v. 厌恶    (loath=loth  adj.不情愿的)
    - anathema (n. 憎恶的事)
+- infer
+
+   - deduce
+   - conclude
+   - gather
+   - judge
+   - reason
+- 
 
 ### Noun
 
@@ -1044,6 +1087,92 @@ $$
    - rather
 
 # Notes for Verbal
+
+## Prefix
+
+### **Numbers**
+
+- half:  **demi-, hemi-, semi-**
+
+	>  hemicycle	半圆
+	>
+	> semifinal, semiautomatic
+
+- one: **mono-, uni**
+
+	> monowheel	独轮
+	>
+	> unipolar	单极
+
+- two: **ambi-, amphi, bi-, di-**
+
+	> ambisexual	两性的
+	>
+	> amphibian	两栖的
+	>
+	> biyearly		两年一次的
+	>
+	> dioxide	二氧化物,		diode	二极管
+
+- three: **tri-**
+
+	> triangle	三角形,	 triode	三极管,	tripod	三脚架
+
+- four: **quadri-, quadru-**
+
+	> quadrangle	四边形
+	>
+	> quadruple	四倍的
+
+- five: **penta-, quinque-, quinqui-, quinqua-**
+
+	> pentagon	五边形(五角大楼),	pentagram	五角星
+
+- six: **sex-, sexi-, hexa-**
+
+	> hexagon	六边形
+	>
+	> internal hexagonal wrench	内六角扳手
+
+- seven: **sept-, hepta-**
+
+	> septennial	七年一度的,	September 九月(古罗马的七月)； 
+	>
+	> heptagon	七边形
+
+- eight: **oct-, octa-, octo-**
+
+	> octagon	八边形
+
+- nine: **nona-, ennea-**
+
+	> nonagon	九边形
+
+- ten: **deci-, deca-**
+
+	> decimal	十进制
+	>
+	> decade	十年，	decagon	十边形
+
+- 百分之一(百): **centi-**
+
+	> centimeter	厘米
+	>
+	> centipede	百足虫
+
+- **kilo-**
+
+- **milli-**
+
+	> millennial	千年的
+
+- **multi-**
+
+- **poly-**
+
+
+
+
 
 ## Conclusions
 
@@ -1727,7 +1856,7 @@ assertion
 
 **context	上下文**
 
-extemporaneous	即兴的
+extemporaneous	即兴的 	improvise	临时制作v.
 
 conjunction	结合
 
@@ -2058,6 +2187,28 @@ aviation
 blatenly
 
 plummet
+
+
+
+### 10.05
+
+anthropogenic				人为的
+
+> anthrop(o)-	人类的
+>
+> anthropology			人类学家		
+
+censorious		≈	critical			挑剔的
+
+modulate			调整
+
+throttle				油门
+
+torque				扭力
+
+antedate				先于v.
+
+antediluvian			古老的
 
 
 
