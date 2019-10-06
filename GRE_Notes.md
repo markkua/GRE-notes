@@ -526,6 +526,7 @@ $$
 | Himalayas | 喜马拉雅山 |  |
 | glacier | 冰川 |                     |
 | cliff | 悬崖 | |
+| crust | 地壳 | |
 | realm        | 领域        | academic realm      |
 | hydrologic   | 水文学      |                     |
 | corona       | 日冕，光环  |                     |
