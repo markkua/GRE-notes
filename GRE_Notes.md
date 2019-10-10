@@ -532,6 +532,9 @@ $$
 | corona       | 日冕，光环  |                     |
 | stratosphere | 平流层 |      |
 | troposphere | 对流层 |      |
+| hydrosphere | 水圈 | |
+| lithosphere | 岩石圈 | |
+| biosphere | 生物圈 | |
 | celestial | 天上的 | celeste天蓝色 |
 | arid | 干旱的 | |
 | gregarious | 群居的 | |
@@ -617,45 +620,48 @@ $$
 | Celsius degree    | 摄氏度```/'selsiəs/``` |        |
 | Fahrenheit degree | 华氏度                 |        |
 |                   |                        |        |
-
-
-
-# Other jargon
-
-| Word              | Chinese        | note                       |
-| ----------------- | -------------- | -------------------------- |
-| archaeology       | 考古学         | archaic古代的              |
-| epistemology      | 认识论         |                            |
-| anthropology      | 人类学         | anthro- 人类的             |
-| semantics         | 语言学         |                            |
-|                   |                |                            |
-| prefix            | 前缀           |                            |
-| sufix             | 后缀           |                            |
-|                   |                |                            |
+| diffraction       | 衍射                   |        |
+| interference      | 干涉                   |        |
+|                   |                        |        |
 | thermal           | 热量的         | thermal energy 热能        |
 | radiant           | 辐射的         | radiation辐射n.            |
 | **infrared (IR)** | **红外的**     | **infrared ray 红外线**    |
 | **ultraviolet**   | **紫外的**     | **ultraviolet ray 紫外线** |
 | particle          | 质点，粒子     | wave-particle duality      |
-|                   |                |                            |
-|                   |                |                            |
-|                   |                |                            |
-| velocity          | 速度           |                            |
-| lever             | 杠杆           |                            |
-| transparent       | 透明的         |                            |
-| bog               | 沼泽           |                            |
-| Fahrenheit        | 华氏度         |                            |
-| Centigrade        | 摄氏度         |                            |
-| pejorative        | 贬义词，轻蔑语 |                            |
-| antonym           | 反义词         |                            |
-| synonym           | 同义词         |                            |
-| compliment        | 赞美之词       |                            |
-| monarchy          | 君主制         | -chy 后缀的  一般是 *制    |
-| autarchy          | 专制，独裁     |                            |
-| hierarchy         | 等级制度       |                            |
-| density           | 密度           | dense 浓密的               |
-| concentration     | 浓度           | concentrate 聚集           |
-| sediment          | 沉积物         |                            |
+
+
+
+# Other jargon
+
+| Word          | Chinese        | note                      |
+| ------------- | -------------- | ------------------------- |
+| archaeology   | 考古学         | archaic古代的             |
+| epistemology  | 认识论         |                           |
+| anthropology  | 人类学         | anthro- 人类的            |
+| semantics     | 语言学         |                           |
+|               |                |                           |
+| prefix        | 前缀           |                           |
+| suffix        | 后缀           |                           |
+|               |                |                           |
+|               |                |                           |
+|               |                |                           |
+|               |                |                           |
+| velocity      | 速度           |                           |
+| lever         | 杠杆           |                           |
+| transparent   | 透明的         |                           |
+| bog           | 沼泽           |                           |
+| Fahrenheit    | 华氏度         |                           |
+| Centigrade    | 摄氏度         |                           |
+| pejorative    | 贬义词，轻蔑语 |                           |
+| antonym       | 反义词         |                           |
+| synonym       | 同义词         |                           |
+| compliment    | 赞美之词       |                           |
+| monarchy      | 君主制         | -chy 后缀的  一般是 *制度 |
+| autarchy      | 专制，独裁     |                           |
+| hierarchy     | 等级制度       |                           |
+| density       | 密度           | dense 浓密的              |
+| concentration | 浓度           | concentrate 聚集          |
+| sediment      | 沉积物         |                           |
 
 # Synonyms
 
@@ -743,7 +749,15 @@ $$
    - analogous
    - affinity (n. 吸引力，相似性，密切关系)
    
+- good
+  
+  - kind
+  - benign
+  - benevolent
+  - 
+  
 - **smart** 
+  
   - bright (口，机灵)
   - wise (有智慧)
   - brilliant (才华出众)
@@ -757,13 +771,14 @@ $$
   - adroit (精明，熟练)
   - crafty (贬，狡猾)
   - canny (精明狡猾)
+  - artful (机灵的)
+  - wily (狡猾的)
   - sophisticate (世故老练的)
   - worldly-wise
   - (n.)acumen
   
 - creative
    - ingenious (暗示创造发明才能)
-   - artful (机灵的)
    - originative (有创作力的)
    - adroit (熟练的，灵活的)  be adroit at ...
    
@@ -797,6 +812,7 @@ $$
 - difficult-to-understand
    - arcane
    - abstract
+   - baffling
    - cryptic
    - esoteric
    - convoluted
@@ -821,11 +837,16 @@ $$
    - pellucid
    - explicit
    - unambiguous
-   - comprehensible
+   - comprehensible v.
+   
+   - articulate
+   - enunciate
+   - blunt (直言不讳的)
    
 - tedious
    - verbose
    - arid
+   - bland
    
 - mixed
    - heterogeneous
@@ -842,7 +863,6 @@ $$
    - skeptical
    - dubious
    - apocryphal
-   - 
    
 - recalcitrant 桀骜不驯的
    - pretentious	自命不凡的
@@ -927,7 +947,6 @@ $$
    - counter 反驳
    - oppose (温和的)反对
    - dispute 争吵 辩论
-   
 - refuse 拒绝
   
    - repudiate 拒绝，否认
@@ -941,6 +960,10 @@ $$
 - damage (reduce)
    - impair
    - compromise 折中妥协，危害
+   - blight
+   - mar
+   - ruin
+   - deteriorate
 - end
   - break (非正式，休息)
   - rest
@@ -956,6 +979,7 @@ $$
    - dissolve
 - respect
    - esteem
+   - revere
    - admire
    - venerate
    - honour (美式honor)
@@ -976,6 +1000,13 @@ $$
    - forebode (对不祥之事)
    - presentiment (n. 对不祥之事)
    - precognition (n.)
+- cheat
+   - beguile
+   - deceive
+   - victimize
+   - misinform
+   - mislead
+   - trick
 - implore
    - ask
    - beg
@@ -1030,6 +1061,7 @@ $$
    - disgust
    - loathe v. 厌恶    (loath=loth  adj.不情愿的)
    - anathema (n. 憎恶的事)
+   - cloy 吃太饱(倒胃口)
 - infer
 
    - deduce
@@ -1214,6 +1246,10 @@ $$
  **willy-nilly**	不管三七二十一，随意地，不情愿地
 
 > It upsets Sheldon when she willy-nilly takes food from the containers.
+
+**either or**	【取反】要么...要么..., 非此即彼
+
+> either good or bad
 
 ### Double Negative
 
@@ -2210,6 +2246,152 @@ torque				扭力
 antedate				先于v.
 
 antediluvian			古老的
+
+### 10.07
+
+predate
+
+yield
+
+drainage
+
+outlier
+
+ancestor
+
+strain
+
+scenario
+
+pertain
+
+reassessment	=>	re+assessment		重新评估
+
+sophisticated
+
+unconventional
+
+
+
+maturity
+
+emerge
+
+differ
+
+retain
+
+isolation
+
+urgency
+
+embrace
+
+harsh				严酷的，刺耳的
+
+
+
+unalienable				不可剥夺的
+
+rallying point			聚焦点
+
+conservative		守旧的
+
+
+
+intellect				智力
+
+mediocrity			平庸的人
+
+hiatus				间隙
+
+inured				习惯
+
+> inured to the xxx, 
+
+revere			尊重
+
+legacy			遗产
+
+relic				遗物，强调object
+
+ethic			伦理学
+
+dictate			规定，制定规则
+
+impunity			不受惩罚
+
+lax				松懈的
+
+savage			野蛮的
+
+
+
+predator			肉食动物
+
+quadruped		四足站立
+
+> -ped		脚
+>
+> bipedal		双足
+>
+> bipedal stance	双足战力
+>
+> impede		阻碍
+>
+> pedal			踏板
+
+restless			不安的   (并不是不休息)
+
+vivacious		快活的
+
+abjure			放弃
+
+cloying			倒胃口的
+
+
+
+rugged			粗糙的
+
+defy			藐视，对抗
+
+pathetic		可怜的
+
+inseparable	==>	in+separable		不可分割的
+
+
+
+indict			控诉，起诉
+
+corroborate		证实
+
+
+
+### 10.10
+
+belie			证明...错误
+
+> be-	使成为
+>
+> beguile		欺骗			guile	欺骗n.
+>
+> beware		注意
+>
+> befriend		友好
+>
+> bemoan		抱怨v.		moan	怨声
+
+belligerent		好战的
+
+> bell-, bel-  ==> war
+>
+> rebel		反叛	
+
+benevolent		仁慈的
+
+> bene-	好的
+>
+> benefit		好处
 
 
 
