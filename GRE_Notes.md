@@ -2395,6 +2395,47 @@ benevolent		仁慈的
 
 
 
+### 10.11
+
+patisserie			法式糕点店
+
+confection			糕点
+
+bereaved				失去亲人的
+
+solace					安慰n. v.
+
+> comfort, relief, succor(援助)
+
+conciliation			调和
+
+vestigial					残留的
+
+follicle					卵泡
+
+quill						
+
+insulate			隔绝
+
+> isolate: 侧重指完全分离、隔开，也指人或处于完全孤立的状态。
+> separate: 指一般意义上的分开或隔开。
+> segregate: 指把一群人或物从整体或主体中分离出来。
+> insulate: 指隔开、分离，尤指用某种东西阻挡从里面逃出或从外面进入的东西。作技术用词时，专指用某种绝缘体隔断通路。		
+
+predator				扑食者
+
+puny						微小的
+
+thermoregulator		热调节器
+
+> therm-	热
+>
+> regulator		调节器
+
+mechanism			机制
+
+perceptible			可感知的
+
 
 
 ## Words from word book
