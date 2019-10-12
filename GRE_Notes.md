@@ -443,7 +443,7 @@ $$
 | nitrogen    | N               |                               |
 | oxygen      | O               |                               |
 | aluminum    | Al              |                               |
-| alumina     | zAl2O3          | 氧化铝                        |
+| alumina     | Al2O3           | 氧化铝                        |
 | bauxite     | 铝土矿          |                               |
 | molecule    | 分子            |                               |
 | ozone       | 臭氧            |                               |
@@ -619,7 +619,8 @@ $$
 | humidity          | 湿度                   |        |
 | Celsius degree    | 摄氏度```/'selsiəs/``` |        |
 | Fahrenheit degree | 华氏度                 |        |
-|                   |                        |        |
+| lumina | 流明 |        |
+|  | | |
 | diffraction       | 衍射                   |        |
 | interference      | 干涉                   |        |
 |                   |                        |        |
@@ -716,6 +717,7 @@ $$
   
    - obligatory (必要的，必修)
    - important (重要的)
+   - pivotal
    
 - long-standing
    - perennial (常年)
@@ -749,7 +751,7 @@ $$
    - analogous
    - affinity (n. 吸引力，相似性，密切关系)
    
-- good
+- good(nice, kind)
   
   - kind
   - benign
@@ -807,7 +809,7 @@ $$
    
    - terrific 极大的，了不起的
    
-   	
+   - 
    
 - difficult-to-understand
    - arcane
@@ -1062,6 +1064,7 @@ $$
    - loathe v. 厌恶    (loath=loth  adj.不情愿的)
    - anathema (n. 憎恶的事)
    - cloy 吃太饱(倒胃口)
+   - irksome(adj. 令人讨厌的)
 - infer
 
    - deduce
@@ -2435,6 +2438,28 @@ thermoregulator		热调节器
 mechanism			机制
 
 perceptible			可感知的
+
+
+
+### 10.12
+
+susceptible to 		受影响的
+
+irksome					令人讨厌的
+
+predilection			嗜好
+
+**daunting				令人恐惧的**
+
+trivial					不重要的
+
+feck						效力，价值
+
+Lumina			流明			==>		luminary	杰出的人
+
+**controversial			引起争议的**
+
+
 
 
 
