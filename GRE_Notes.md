@@ -310,7 +310,7 @@
 | units(ones) digit, tens digit, hundreds digit | 个位、十位、百位...            |               |
 | fraction, numerator, denominator              | 分数，分子，分母               |               |
 | term                                          | 项                             |               |
-| (order of) magnitude                          | 数量级                         |               |
+| (order of) **magnitude**                      | 数量级                         |               |
 | phase                                         | 相位                           |               |
 | fraction                                      | 分数 (1/4)                     |               |
 | inequality                                    | 不等式                         |               |
@@ -319,14 +319,15 @@
 | axiom                                         | 公理                           |               |
 | theorem                                       | 定理                           |               |
 | law                                           | 定律                           |               |
+| inflection                                    | 拐点                           |               |
 |                                               |                                |               |
 | **Operator**                                  | **运算**                       |               |
 | multiply                                      | 乘                             |               |
 | product                                       | 乘积                           |               |
 | minus                                         | 减                             |               |
 | prime factor                                  | 质因子                         |               |
-|                                               |                                |               |
-|                                               |                                |               |
+| derivative                                    | 导数                           |               |
+| differentiate                                 | 求导，微分                     |               |
 |                                               |                                |               |
 | **Geometric**                                 | **几何**                       |               |
 | perimeter                                     | 周长                           |               |
@@ -351,11 +352,17 @@
 |                                               |                                |               |
 | **STATISTICS**                                | 统计                           |               |
 | **standard deviation**                        | **标准差**                     |               |
+| variance                                      | 方差                           |               |
 | median                                        | 中位数                         |               |
 | arithmetic mean                               | 算数平均值                     |               |
 | ratio                                         | 比例                           |               |
 | proportion                                    | 比例                           |               |
 | normal distribution                           | 正态分布                       |               |
+| stochastic                                    | 随机的[数]                     |               |
+| estimate                                      | 估计                           |               |
+| expectation                                   | 期望                           |               |
+| population                                    | 总体                           |               |
+| sample                                        | 样本                           |               |
 |                                               |                                |               |
 | **other**                                     |                                |               |
 | constant                                      | 不变的                         |               |
@@ -378,10 +385,31 @@ intercalary year(leap year) 闰年(366天)　 common year 平年(365天)　 depr
 ### Professional Expressions
 
 - **twice as A as B:	A是B的两倍**
+
 - **consecutive integers		连续整数**
+
 - arithmetic  mean   算数平均值
+
 - denote : f(x) denote the sum of ...、
+
 - 离散 vs 连续:  discrete vs consecutive
+
+- **无穷大vs无穷小:  infinite vs infinitesimal**
+
+- **Formulas**
+
+	- $x^2$ square
+	- $x^{1/n}$ x to the power one over n
+	- $y^{-10}$ y to the minus tenth power
+	- $|x|$ absolute value of x
+	- $\bar {x}$ x bar
+	- $dy / dx$   the first derivative of y with respect to x
+	- $d^ny / d^n x$ the nth derivative of y with respect to x
+	- $\sqrt[3]{x}$  cube root of x  
+	- $\sqrt[n]{x}$  nth root of x
+- 
+	
+	
 
 
 
@@ -520,6 +548,9 @@ $$
 | Atlantic     | 大西洋      |                     |
 | arctic       | 北极的      |                     |
 | antarctic    | 南极的      |                     |
+| meridian | 子午线 | |
+|  | 纬线 | |
+|  |  | |
 |                |             |                     |
 | seismic      | 地震的      | seismology地震学    |
 | Mount Everest(Qomolangma) | 珠穆朗玛峰 |  |
@@ -756,7 +787,11 @@ $$
   - kind
   - benign
   - benevolent
-  - 
+  
+- hardworking 勤奋的
+  
+  - diligent
+  - assiduous
   
 - **smart** 
   
@@ -872,7 +907,7 @@ $$
    - pejorative	轻蔑语(n.)，轻蔑的(adj.)
    - contemptuous 鄙视的轻蔑的
    
-- easy-change
+- easy-change 善变
    - mercurial
    - capricious
    
@@ -924,15 +959,25 @@ $$
   - rebuke (上对下的责备)
   - denounce (= condemn)
   - animadvert
+  - censure
   - reproach (责备他人的粗心、自私等)
   - reprove (责骂)
   - reprimand (责难)
   - decry (公开反对，谴责)
   - admonish  (警告，责备，劝告)
+  - castigate (严厉斥责)
   - chide ```/tʃaɪd/```
+  - indict (起诉控告)
+- defame 诽谤
+   - malign
+   - slander
+   - smirch
+   - asperse
+   - denigrate
+   - calumniate
+   - smear
 - claim
-  
-   - insist
+  - insist
    - declare
    - allege
    - affirm
@@ -955,6 +1000,15 @@ $$
    - deny 拒绝
    - reject 拒绝
    - decline (谢绝邀请)
+- prevent 阻止禁止
+   - inhibit (减缓)
+   - block
+   - bar
+   - hinder
+   - obstruct
+   - hamper
+   - restrain
+   - contain
 - discuss
    - negotiate (商谈)
    - confer (交换意见)  协商；授予
@@ -979,6 +1033,12 @@ $$
    - annihilate (消失，毁灭)
    - vanish (消失)
    - dissolve
+- ignore 忽略
+   - omission (n.)
+   - disregard
+   - neglect
+   - overlook
+   - elide (发音省略)
 - respect
    - esteem
    - revere
@@ -988,14 +1048,13 @@ $$
    - regard (正式，中性)
    - deference(n.尊敬)
    - awe (n.敬畏)
-- indicate
+- indicate, forecast 预测
 
    - presage
    - portend
    - foreshadow
    - bespeak
    - betoken
-   - forecast
    - predict
    - anticipate
    - augury (占卜)
@@ -1009,6 +1068,11 @@ $$
    - misinform
    - mislead
    - trick
+- pretend 掩饰 假装
+   - dissemble
+   - feign
+   - belie (掩饰; 证明...错)
+   - misrepresent
 - implore
    - ask
    - beg
@@ -1034,7 +1098,17 @@ $$
    - boost
    - perfect (v.)
    - augment (v, n，增强，扩大)
-   - ameliorate 改善
+   - ameliorate (改善,positive)
+   - meliorate (通ameliorate)
+   - amend (改善)
+   - remedy (纠正[正式])
+   - rectify (纠正[正式])
+   - revise (修订)
+   - mitigate (缓和)
+   - moderate (缓和)
+   - alleviate (缓和)
+   - inhibit (减缓)
+   - 
 - prove 证实  [suspicious](#suspicious) <a name='prove'></a>
    - corroborate
    - confirm
@@ -1253,6 +1327,10 @@ $$
 **either or**	【取反】要么...要么..., 非此即彼
 
 > either good or bad
+
+**hence**	因此
+
+> hence, ....
 
 ### Double Negative
 
@@ -2461,7 +2539,51 @@ Lumina			流明			==>		luminary	杰出的人
 
 
 
+### 10.13
 
+**vicious circle		恶性循环**
+
+**virtuous circle		良性循环**
+
+vitality			生命力
+
+obsess				困扰
+
+
+
+### 10.14
+
+omission				省略
+
+textile					纺织的
+
+indict					起诉
+
+replicate				复制
+
+inhibit					抑制
+
+**exacerbate			加剧**
+
+precipitate			沉淀
+
+**evaporate				蒸发**
+
+moist						潮湿的
+
+**make sb. out to be	把...说成...**
+
+impecunious 			穷困的
+
+fleeting					快速的
+
+degenerate			退化
+
+
+
+
+
+​				
 
 ## Words from word book
 
