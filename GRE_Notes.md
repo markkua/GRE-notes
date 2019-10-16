@@ -303,10 +303,13 @@
 | Term                                          | Chinese                        | Equation      |
 | --------------------------------------------- | ------------------------------ | ------------- |
 | **Noun**                                      |                                |               |
+| scratch paper                                 | 草稿纸                         |               |
 | odd number                                    | 奇数                           |               |
 | even number                                   | 偶数                           |               |
 | remainder                                     | 余数                           |               |
 | divisor                                       | 因子                           |               |
+| factor                                        | 因子                           |               |
+| factorization                                 | 因式分解                       |               |
 | units(ones) digit, tens digit, hundreds digit | 个位、十位、百位...            |               |
 | fraction, numerator, denominator              | 分数，分子，分母               |               |
 | term                                          | 项                             |               |
@@ -320,28 +323,41 @@
 | theorem                                       | 定理                           |               |
 | law                                           | 定律                           |               |
 | inflection                                    | 拐点                           |               |
+| exponents                                     | 指数                           |               |
+| number line                                   | 数轴                           |               |
+| decimal representation                        | 十进制                         |               |
+| intercept                                     | 截距                           |               |
+| **reciprocal**                                | **倒数**                       |               |
+| coefficient                                   | 系数                           |               |
 |                                               |                                |               |
 | **Operator**                                  | **运算**                       |               |
 | multiply                                      | 乘                             |               |
 | product                                       | 乘积                           |               |
-| minus                                         | 减                             |               |
+| minus / **subtract**                          | 减                             |               |
 | prime factor                                  | 质因子                         |               |
 | derivative                                    | 导数                           |               |
 | differentiate                                 | 求导，微分                     |               |
 |                                               |                                |               |
+|                                               |                                |               |
 | **Geometric**                                 | **几何**                       |               |
-| perimeter                                     | 周长                           |               |
+| perimeter / circumference                     | 周长                           |               |
 | plane                                         | 平面                           |               |
+| radius                                        | 半径                           |               |
+| diameter                                      | 直径                           |               |
 | parallel                                      | 平行的                         |               |
 | perpendicular                                 | 垂直的                         |               |
 | tangent                                       | 相切的                         |               |
 | intersect                                     | 相交                           |               |
 | skew                                          | 斜交                           |               |
 | inscribed                                     | 内接于                         |               |
+| **triangles**                                 | **三角形**                     |               |
 | isosceles                                     | 等腰的                         |               |
 | equilateral                                   | 等边的                         |               |
-| right triangle                                | 直角三角形                     |               |
+| **right triangle**                            | **直角三角形**                 |               |
+| hypotenuse                                    | 斜边                           |               |
 | isosceles right triangle                      | 等腰直角三角形                 |               |
+| quadrilateral                                 | 四边形                         |               |
+| the Pythagorean theorem                       | 勾股定理                       |               |
 | slope                                         | 斜率，斜坡                     |               |
 | cylinder                                      | 柱状                           |               |
 | cone                                          | 锥                             | circle cone圆 |
@@ -373,6 +389,7 @@
 | fraction                                      | 部分                           |               |
 | mutually                                      | 互相地                         |               |
 | revenue                                       | 收入，税收                     |               |
+| lawn                                          | 草地                           |               |
 
 ### Units
 
@@ -414,6 +431,190 @@ intercalary year(leap year) 闰年(366天)　 common year 平年(365天)　 depr
 
 
 ## Notes for exam
+
+### Range (OG P7)
+
+#### Arithmetic 算数
+
+- properties and types of integers
+	- **divisibility**
+	- factorization
+	- **prime numbers**
+	- remainders
+	- odd and even integers
+- arithmetic operations
+	- **exponents**
+	- roots
+- definitions
+	- estimation
+	- percent, ratio, rate
+	- absolute value
+	- the number line
+	- decimal representation
+	- sequences of numbers
+
+#### Algebra
+
+- operations with exponents
+
+- factoring and simplifying algebraic expressions
+
+	- relations
+	- functions
+	- equation
+	- **inequalities**
+
+- linear and **quadratic equations** and inequalities
+
+	> quadratic equation	二次方程
+
+- setting up equations to solve word problems
+
+- coordinate geometry
+
+- graphs
+
+- **intercepts** and **slopes** of lines
+
+#### Geometry
+
+- **parallel lines**
+- **perpendicular lines**
+- circles
+- triangles
+	- **isosceles**
+	- **equilateral**
+- **quadrilaterals**
+- **congruent** and similar figures
+- 3D figures
+- calculation
+	- area
+	- perimeter / circumference
+	- volume
+	- **the Pythagorean theorem**
+	- angle measurement in degree
+
+#### Data analysis
+
+- descriptive statistics
+
+	- mean
+	- median
+	- **mode**
+	- range
+	- standard deviation
+	- **interquartile range**
+	- **quartile**
+	- percentile
+- graphs
+
+	- line graph
+	- bar graph
+	- circle graph
+	- boxplots
+	- **scatterplots**
+	- frequency distribution
+- elementary probability
+
+	- random event
+	- compound events
+- random variable and probability distribution
+	- normal distribution
+- calculation method
+	- **combination**
+	- **permutation**
+	- Venn diagram
+
+**No trigonometry or calculus.**
+
+> trigonometry 三角学
+>
+> calculus	微积分
+
+
+
+### Steps
+
+1. Understand the question
+
+2. Carry out strategy
+
+	> 分别写出A和B的值
+
+3. Check
+  1. Have you answered **all** the questions?
+  2. Is your answer **reasonable**?
+  3. Computational mistake?
+
+### Strategies
+
+1. Translate from Words to an Arithmetic or Algebraic Representation
+
+2. Translate from Words to a Figure or Diagram
+
+3. Translate from an Algebraic to a Graphical representation
+
+4. Translate from a Figure to an Arithmetic or Algebraic representation
+
+5. Simplify an representation
+
+6. Add to a Geometric Figure
+
+7. Find a pattern
+
+	> 对于含有n，找不到直接解的，试着从1开始试试找规律 ($(m=10^{32}+2) \% 11 = r$那题)
+
+8. Search for a **Mathematical Relationship**
+
+9. Estimate
+
+10. **Trial and error**
+
+	> 试出来有不同结果的就可以选D了
+
+11. **Divide into Cases**
+
+12. Adapt solutions to related problems
+
+13. Determine whether a conclusion follows from the information given
+
+14. Determine what additional information is sufficient to solve a problem
+
+
+
+### Traps
+
+**number of  ==> 数量**
+
+> value of	数值
+>
+> volume	体积
+
+
+
+**m选n问题的表达**
+
+> $C^n_m$ ==> $  \left( \begin{matrix} m  \\  n \end{matrix}  \right) $
+
+
+
+**关于圆、多边形，看清楚是area，还是perimeter，还是leg**
+
+> the area of circle W is 16pi and that of Z is 4pi. what is $\frac{C_W}{C_Z}$  -->  2/1
+
+
+
+**分清 billion vs million**
+
+
+
+**变量的取值范围特别注意分类讨论**
+
+<img src="http://www.kebingxin.com:9000/imgs/gre/math1.png" style="zoom:50%;" />
+
+<img src="http://www.kebingxin.com:9000/imgs/gre/math2.png" style="zoom:50%;" />
+
+
 
 ### Time of a day
 
@@ -1176,9 +1377,19 @@ $$
 - feature
    - hallmark
    - trait
-- lie
+   - attribute
+   - property
+   - peculiarity
+   - character
+- lie 谎言
    - mendacity
+   - untruthfulness
    - prevarication  推诿搪塞
+- trap 陷阱
+   - snare
+   - pitfall
+   - hook
+   - mesh
 
 ### Conjunction
 
@@ -1331,6 +1542,10 @@ $$
 **hence**	因此
 
 > hence, ....
+
+**whilst**  同时
+
+> = at the meantime
 
 ### Double Negative
 
@@ -2208,7 +2423,7 @@ vast	大量的
 
 perceptual = sensing	感知的
 
-make out	≈	recognise	≈	identify
+make out	≈	recognize	≈	identify
 
 
 
@@ -2348,7 +2563,7 @@ pertain
 
 reassessment	=>	re+assessment		重新评估
 
-sophisticated
+sophisticated  	复杂的  高端的
 
 unconventional
 
@@ -2578,6 +2793,84 @@ impecunious 			穷困的
 fleeting					快速的
 
 degenerate			退化
+
+### 10.15
+
+derivative
+
+illuminate
+
+dispassionate
+
+tumultuous
+
+perceptible
+
+compliment
+
+conjure up
+
+confound
+
+各种梯形怎么说
+
+inhabitants
+
+partisan
+
+imprudent
+
+tragedy
+
+harmonious
+
+prevail
+
+defiant
+
+fastidious
+
+deliberate
+
+commentary
+
+intentional
+
+ethnic
+
+reinforce
+
+irreversible
+
+equatorial
+
+benign
+
+photocopier
+
+subsequent
+
+surrogate
+
+inscrutable
+
+illusion				错觉
+
+indolence
+
+molecule
+
+outstrip
+
+supplant
+
+corporate support for the arts
+
+tailor
+
+
+
+
 
 
 
