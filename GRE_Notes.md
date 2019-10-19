@@ -393,6 +393,10 @@
 | mutually                                      | 互相地                         |                     |
 | revenue                                       | 收入，税收                     |                     |
 | lawn                                          | 草地                           |                     |
+| simple annual interest                        | 年单利                         |                     |
+| compounded interest                           | 复利                           |                     |
+|                                               |                                |                     |
+|                                               |                                |                     |
 
 ### Units
 
@@ -406,7 +410,7 @@ intercalary year(leap year) 闰年(366天)　 common year 平年(365天)　 depr
 
 - **twice as A as B:	A是B的两倍**
 
-- **consecutive integers		连续整数**
+- **consecutive / successive  integers		连续整数**
 
 - arithmetic  mean   算数平均值
 
@@ -536,7 +540,12 @@ intercalary year(leap year) 闰年(366天)　 common year 平年(365天)　 depr
 	- random event
 	- compound events
 - random variable and probability distribution
+	
 	- normal distribution
+	
+		> $<\pm1\sigma$ -- 68%
+		>
+		> $<\pm2\sigma$ -- 96%
 - calculation method
 	- **combination**
 	- **permutation**
@@ -669,15 +678,37 @@ intercalary year(leap year) 闰年(366天)　 common year 平年(365天)　 depr
 **随机变量是否独立**
 
 > 不独立的不能用概率相乘
+>
+> most possible possibility  ==>  greatest possibility
 
 
 
-**韦恩图交叉部分要计算两次**
+**韦恩图交叉部分要计算两次**【多花点时间，你错很多这个题】
 
 <img src="http://www.kebingxin.com:9000/imgs/gre/math7.png" style="zoom:50%;" />
 
 
 
+**复利的计算**
+
+> 6% compounded quarterly	2 years	quarterly每1/4年复一次
+>
+> ​	$1.015^8$ * deposit
+
+
+
+**折扣的计算**
+
+> successive discounts of 20% and 40% = ?
+>
+> ​	1 - (1 - 20%)(1 - 40%)
+
+
+
+**等差数列公式**
+$$
+\frac{(首项+末项)项数}{2}
+$$
 
 
 ### Time of a day
