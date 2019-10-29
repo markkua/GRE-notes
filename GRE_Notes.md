@@ -257,42 +257,42 @@
 
 # Similar or analogous
 
-| word1                | word2                      |
-| -------------------- | -------------------------- |
-| violate              | violence                   |
-| abound               | about                      |
-| converge             | convert                    |
-| secret               | secrete                    |
-| forge                | forage                     |
-| deduce               | reduce                     |
-| asset                | assert                     |
-| surprise             | suppressed                 |
-| defer, deter, deduce |                            |
-| odd                  | odds                       |
-| annul                | annual                     |
-| condemn              | condone                    |
-| heroin               | heroic                     |
-| comprehensive        | comprehension              |
-| abroad               | aboard                     |
-| confound             | profound                   |
-| refuse               | refute                     |
-| perilous             | parallel                   |
-| confer               | defer                      |
-| improvise            | improvement                |
-| eschew               | shrewd                     |
-| overt                | over                       |
-| circumstance,        | circumstantial, circumvent |
-| competitive          | compatible                 |
-| adapt                | adopt                      |
-| decent               | discern                    |
-| hostile              | hospitable                 |
-| distinguish          | distinct                   |
-| compound             | component                  |
-| journal              | journey                    |
-| radiant              | radius                     |
-| specious             | species                    |
-| reflection           | refraction                 |
-| anonymous            | antonym                    |
+| word1                                    | word2          |
+| ---------------------------------------- | -------------- |
+| violate                                  | violence       |
+| abound                                   | about          |
+| converge                                 | convert        |
+| secret                                   | secrete        |
+| forge                                    | forage         |
+| deduce                                   | reduce         |
+| asset                                    | assert         |
+| surprise                                 | suppressed     |
+| defer, deter, deduce                     |                |
+| odd                                      | odds           |
+| annul                                    | annual         |
+| condemn                                  | condone        |
+| heroin                                   | heroic         |
+| comprehensive                            | comprehension  |
+| abroad                                   | aboard         |
+| confound                                 | profound       |
+| refuse                                   | refute         |
+| perilous                                 | parallel       |
+| confer                                   | defer          |
+| improvise                                | improvement    |
+| eschew                                   | shrewd         |
+| overt                                    | over           |
+| circumstance, circumstantial, circumvent |                |
+| competitive                              | compatible     |
+| adapt                                    | adopt          |
+| decent                                   | discern        |
+| hostile                                  | hospitable     |
+| distinguish v.                           | distinct  adj. |
+| compound                                 | component      |
+| journal                                  | journey        |
+| radiant                                  | radius         |
+| specious                                 | species        |
+| reflection                               | refraction     |
+| anonymous                                | antonym        |
 
 
 
@@ -300,103 +300,104 @@
 
 ## Math Term
 
-| Term                                          | Chinese                        | Equation            |
-| --------------------------------------------- | ------------------------------ | ------------------- |
-| **Noun**                                      |                                |                     |
-| scratch paper                                 | 草稿纸                         |                     |
-| odd number                                    | 奇数                           |                     |
-| even number                                   | 偶数                           |                     |
-| remainder                                     | 余数                           |                     |
-| divisor                                       | 因子                           |                     |
-| factor                                        | 因子                           |                     |
-| factorization                                 | 因式分解                       |                     |
-| units(ones) digit, tens digit, hundreds digit | 个位、十位、百位...            |                     |
-| fraction, numerator, denominator              | 分数，分子，分母               |                     |
-| term                                          | 项                             |                     |
-| (order of) **magnitude**                      | 数量级                         |                     |
-| phase                                         | 相位                           |                     |
-| fraction                                      | 分数 (1/4)                     |                     |
-| inequality                                    | 不等式                         |                     |
-| algebra                                       | 代数                           |                     |
-| matrices                                      | matrix的复数``` /'meɪtrɪks/``` |                     |
-| axiom                                         | 公理                           |                     |
-| theorem                                       | 定理                           |                     |
-| law                                           | 定律                           |                     |
-| inflection                                    | 拐点                           |                     |
-| exponents                                     | 指数                           |                     |
-| number line                                   | 数轴                           |                     |
-| decimal representation                        | 十进制                         |                     |
-| intercept                                     | 截距                           |                     |
-| **reciprocal**                                | **倒数**                       |                     |
-| coefficient                                   | 系数                           |                     |
-|                                               |                                |                     |
-| **Operator**                                  | **运算**                       |                     |
-| multiply                                      | 乘                             |                     |
-| product                                       | 乘积                           |                     |
-| minus / **subtract**                          | 减                             |                     |
-| prime factor                                  | 质因子                         |                     |
-| derivative                                    | 导数                           |                     |
-| differentiate                                 | 求导，微分                     |                     |
-|                                               |                                |                     |
-|                                               |                                |                     |
-| **Geometric**                                 | **几何**                       |                     |
-| line segment                                  | 线段                           |                     |
-| perimeter / circumference                     | 周长                           |                     |
-| plane                                         | 平面                           |                     |
-| radius                                        | 半径                           |                     |
-| diameter                                      | 直径                           |                     |
-| parallel                                      | 平行的                         |                     |
-| perpendicular                                 | 垂直的                         |                     |
-| tangent                                       | 相切的                         |                     |
-| intersect                                     | 相交                           |                     |
-| skew                                          | 斜交                           |                     |
-| inscribed                                     | 内接于                         |                     |
-| **triangles**                                 | **三角形**                     |                     |
-| **isosceles**                                 | 等腰的                         | ```/aɪ'sɒsɪliːz/``` |
-| **equilateral**                               | 等边的                         |                     |
-| **right triangle**                            | **直角三角形**                 |                     |
-| hypotenuse                                    | 斜边                           |                     |
-| isosceles right triangle                      | 等腰直角三角形                 |                     |
-| quadrilateral                                 | 四边形                         |                     |
-| **trapezoid**                                 | **梯形**                       |                     |
-| isosceles trapezoid                           | 等腰梯形                       |                     |
-| the Pythagorean theorem                       | 勾股定理                       |                     |
-| slope                                         | 斜率，斜坡                     |                     |
-| cylinder                                      | 柱状                           |                     |
-| cone                                          | 锥                             | circle cone圆       |
-| diagonal                                      | 对角的                         |                     |
-| adjacent                                      | 相邻的                         |                     |
-| vertex                                        | 顶点                           | 复数vertices        |
-|                                               |                                |                     |
-|                                               |                                |                     |
-| **STATISTICS**                                | 统计                           |                     |
-| **standard deviation**                        | **标准差**                     |                     |
-| variance                                      | 方差                           |                     |
-| median                                        | 中位数                         |                     |
-| arithmetic mean                               | 算数平均值                     |                     |
-| ratio                                         | 比例                           |                     |
-| proportion                                    | 比例                           |                     |
-| normal distribution                           | 正态分布                       |                     |
-| stochastic                                    | 随机的[数]                     |                     |
-| estimate                                      | 估计                           |                     |
-| expectation                                   | 期望                           |                     |
-| population                                    | 总体                           |                     |
-| sample                                        | 样本                           |                     |
-|                                               |                                |                     |
-| **other**                                     |                                |                     |
-| constant                                      | 不变的                         |                     |
-| in checking account                           | 支票账户                       |                     |
-| expense                                       | 开支                           |                     |
-| asset                                         | 资产                           |                     |
-| down payment                                  | 首付                           |                     |
-| fraction                                      | 部分                           |                     |
-| mutually                                      | 互相地                         |                     |
-| revenue                                       | 收入，税收                     |                     |
-| lawn                                          | 草地                           |                     |
-| simple annual interest                        | 年单利                         |                     |
-| compounded interest                           | 复利                           |                     |
-|                                               |                                |                     |
-|                                               |                                |                     |
+| Term                                          | Chinese                                  | Equation            |
+| --------------------------------------------- | ---------------------------------------- | ------------------- |
+| **Noun**                                      |                                          |                     |
+| scratch paper                                 | 草稿纸                                   |                     |
+| odd number                                    | 奇数                                     |                     |
+| even number                                   | 偶数                                     |                     |
+| remainder                                     | 余数                                     |                     |
+| divisor                                       | 因子                                     |                     |
+| factor                                        | 因子                                     |                     |
+| factorization                                 | 因式分解                                 |                     |
+| units(ones) digit, tens digit, hundreds digit | 个位、十位、百位...                      |                     |
+| tenths, hundredths, thousandths               | 十分位(0.1)、百分位(0.01)、千分位(0.001) |                     |
+| fraction, numerator, denominator              | 分数，分子，分母                         |                     |
+| term                                          | 项                                       |                     |
+| (order of) **magnitude**                      | 数量级                                   |                     |
+| phase                                         | 相位                                     |                     |
+| fraction                                      | 分数 (1/4)                               |                     |
+| inequality                                    | 不等式                                   |                     |
+| algebra                                       | 代数                                     |                     |
+| matrices ```/'meɪtrɪsiːz/```                  | matrix的复数``` /'meɪtrɪks/```           |                     |
+| axiom                                         | 公理                                     |                     |
+| theorem                                       | 定理                                     |                     |
+| law                                           | 定律                                     |                     |
+| inflection                                    | 拐点                                     |                     |
+| exponents                                     | 指数                                     |                     |
+| number line                                   | 数轴                                     |                     |
+| decimal representation                        | 十进制                                   |                     |
+| intercept                                     | 截距                                     |                     |
+| **reciprocal**                                | **倒数**                                 |                     |
+| coefficient                                   | 系数                                     |                     |
+|                                               |                                          |                     |
+| **Operator**                                  | **运算**                                 |                     |
+| multiply                                      | 乘                                       |                     |
+| product                                       | 乘积                                     |                     |
+| minus / **subtract**                          | 减                                       |                     |
+| prime factor                                  | 质因子                                   |                     |
+| derivative                                    | 导数                                     |                     |
+| differentiate                                 | 求导，微分                               |                     |
+|                                               |                                          |                     |
+|                                               |                                          |                     |
+| **Geometric**                                 | **几何**                                 |                     |
+| line segment                                  | 线段                                     |                     |
+| perimeter / circumference                     | 周长                                     |                     |
+| plane                                         | 平面                                     |                     |
+| radius                                        | 半径                                     |                     |
+| diameter                                      | 直径                                     |                     |
+| parallel                                      | 平行的                                   |                     |
+| perpendicular                                 | 垂直的                                   |                     |
+| tangent                                       | 相切的                                   |                     |
+| intersect                                     | 相交                                     |                     |
+| skew                                          | 斜交                                     |                     |
+| inscribed                                     | 内接于                                   |                     |
+| **triangles**                                 | **三角形**                               |                     |
+| **isosceles**                                 | 等腰的                                   | ```/aɪ'sɒsɪliːz/``` |
+| **equilateral**                               | 等边的                                   |                     |
+| **right triangle**                            | **直角三角形**                           |                     |
+| hypotenuse                                    | 斜边                                     |                     |
+| isosceles right triangle                      | 等腰直角三角形                           |                     |
+| quadrilateral                                 | 四边形                                   |                     |
+| **trapezoid**                                 | **梯形**                                 |                     |
+| isosceles trapezoid                           | 等腰梯形                                 |                     |
+| the Pythagorean theorem                       | 勾股定理                                 |                     |
+| slope                                         | 斜率，斜坡                               |                     |
+| cylinder                                      | 柱状                                     |                     |
+| cone                                          | 锥                                       | circle cone圆       |
+| diagonal                                      | 对角的                                   |                     |
+| adjacent                                      | 相邻的                                   |                     |
+| vertex                                        | 顶点                                     | 复数vertices        |
+|                                               |                                          |                     |
+|                                               |                                          |                     |
+| **STATISTICS**                                | 统计                                     |                     |
+| **standard deviation**                        | **标准差**                               |                     |
+| variance                                      | 方差                                     |                     |
+| median                                        | 中位数                                   |                     |
+| arithmetic mean                               | 算数平均值                               |                     |
+| ratio                                         | 比例                                     |                     |
+| proportion                                    | 比例                                     |                     |
+| normal distribution                           | 正态分布                                 |                     |
+| stochastic                                    | 随机的[数]                               |                     |
+| estimate                                      | 估计                                     |                     |
+| expectation                                   | 期望                                     |                     |
+| population                                    | 总体                                     |                     |
+| sample                                        | 样本                                     |                     |
+|                                               |                                          |                     |
+| **other**                                     |                                          |                     |
+| constant                                      | 不变的                                   |                     |
+| in checking account                           | 支票账户                                 |                     |
+| expense                                       | 开支                                     |                     |
+| asset                                         | 资产                                     |                     |
+| down payment                                  | 首付                                     |                     |
+| fraction                                      | 部分                                     |                     |
+| mutually                                      | 互相地                                   |                     |
+| revenue                                       | 收入，税收                               |                     |
+| lawn                                          | 草地                                     |                     |
+| simple annual interest                        | 年单利                                   |                     |
+| compounded interest                           | 复利                                     |                     |
+|                                               |                                          |                     |
+|                                               |                                          |                     |
 
 ### Units
 
@@ -409,34 +410,32 @@ intercalary year(leap year) 闰年(366天)　 common year 平年(365天)　 depr
 ### Professional Expressions
 
 - **twice as A as B:	A是B的两倍**
-
 - **consecutive / successive  integers		连续整数**
-
 - arithmetic  mean   算数平均值
-
 - denote : f(x) denote the sum of ...、
-
 - 离散 vs 连续:  discrete vs consecutive
-
 - **无穷大vs无穷小:  infinite vs infinitesimal**
-
+- 数量级: the order of magnitude of 2400 is 3
 - **Formulas**
 
-	- $x^2$ square
-	- $x^{1/n}$ x to the power one over n
-	- $y^{-10}$ y to the minus tenth power
-	- $|x|$ absolute value of x
-	- $\bar {x}$ x bar
-	- $dy / dx$   the first derivative of y with respect to x
-	- $d^ny / d^n x$ the nth derivative of y with respect to x
-	- $\sqrt[3]{x}$  cube root of x  
-	- $\sqrt[n]{x}$  nth root of x
+	- $x^2$  -- square
+	- $x^{1/n}$  -- x to the power one over n
+	- $y^{-10}$  -- y to the minus tenth power
+	- $|x|$ -- absolute value of x
+	- $\bar {x}$  -- x bar
+	- $dy / dx$    -- the first derivative of y with respect to x
+	- $d^ny / d^n x$   -- the nth derivative of y with respect to x
+	- $\sqrt[3]{x}$   -- cube root of x  
+	- $\sqrt[n]{x}$    -- nth root of x
 	
 
 ### Polygons
 
 - three: triangle
-- four: quadrangle
+	- isosceles, equilateral, right 
+- four: quadrangle / quadrilateral
+	- square, ractangle
+	- trapezoid
 - five:  pentagon
 - six: hexagon
 - seven: heptagon
