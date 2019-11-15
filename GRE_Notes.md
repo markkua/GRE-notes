@@ -293,6 +293,9 @@
 | specious                                 | species        |
 | reflection                               | refraction     |
 | anonymous                                | antonym        |
+| commend                                  | comment        |
+| covert                                   | covet          |
+| eclipse                                  | ellipse        |
 
 
 
@@ -810,6 +813,7 @@ $$
 | mite           | 螨虫               |                                 |
 | vaccine        | 疫苗               |                                 |
 | avian flu      | 禽流感             |                                 |
+| contagious     | 接触传染的         |                                 |
 | jaw            | 下巴               | snap: sudden closing of the jaw |
 | inherit        | 继承，遗传         |                                 |
 | acoustic       | 听觉的             | acoustic nerve听觉神经          |
@@ -867,14 +871,14 @@ $$
 
 ### Astronomy
 
-| Word      | Chinese | Remark             |
-| --------- | ------- | ------------------ |
-| celestial | 天上的  | ```/sɪ'lestɪəl/``` |
-| cosmic    | 宇宙的  |                    |
-| meteorite | 陨石    |                    |
-| nebular   | 星云    |                    |
-| comet     | 彗星    |                    |
-| supernova | 超新星  |                    |
+| Word              | Chinese | Remark             |
+| ----------------- | ------- | ------------------ |
+| celestial         | 天上的  | ```/sɪ'lestɪəl/``` |
+| cosmic            | 宇宙的  |                    |
+| meteorite(meteor) | 陨石    |                    |
+| nebular           | 星云    |                    |
+| comet             | 彗星    |                    |
+| supernova         | 超新星  |                    |
 
 
 
@@ -1011,6 +1015,9 @@ $$
      - deleterious
   - opposite
      - antithetical
+  - bad
+     - egregious
+     - 
 - for description
    - apposite                贴切的
       - pertinent
@@ -1060,6 +1067,13 @@ $$
    - pecuniary (金钱的)  => impecunious 穷困   vs.    peculiar 特别的
    - monetary
    - financial
+- fair 公平的
+   - impartial
+   - disinterested
+   - dispassionate
+   - detached
+   - indifferent
+   - even-handed
 - similar
    - alike
    - resemble
@@ -1079,6 +1093,8 @@ $$
   - kind
   - benign
   - benevolent
+  - perfect
+  - consummate
 - hardworking 勤奋的
   
   - diligent
@@ -1096,6 +1112,7 @@ $$
   - shrewd (精明老练)
   - astute (精明)
   - adroit (精明，熟练)
+  - dexterous (熟练的)
   - crafty (贬，狡猾)
   - canny (精明狡猾)
   - artful (机灵的)
@@ -1139,7 +1156,7 @@ $$
    - baffling
    - cryptic
    - esoteric
-   - convoluted
+   - **convoluted**
    - involved
    - obscure
    - impenetrable
@@ -1154,6 +1171,7 @@ $$
    - equivocal (模棱两可)
    - ambiguous (模糊不清模棱两可)
    - inscrutable (不可理解的，谜一样的)
+   - conundrum  n.(很难搞懂的问题)
 - clear
    - lucid
    - intelligible
@@ -1161,14 +1179,23 @@ $$
    - explicit
    - unambiguous
    - comprehensible v.
-   
    - articulate
    - enunciate
    - blunt (直言不讳的)
+- different 不同的
+   - disparate
+   - dissimilor
+   - discordant
+   - discrepant
+   - divergent
+   - heterogeneous
 - tedious
    - verbose
    - arid
    - bland
+   - diffuse
+   - dreary
+   - dull
 - mixed
    - heterogeneous
    - assorted
@@ -1224,6 +1251,25 @@ $$
    - constant
    - persistent
    - continual
+- obvious
+   - obtrusive
+   - apparent
+   - evident
+   - manifest
+   - patent
+   - plain
+   - distinct
+   - conspicuous
+- respectful [respect](#respect)<a name=respectful></a>
+   - deferential
+   - complaisant
+   - obedient
+   - reverential
+   - submissive
+- harmful
+   - deleterious
+   - detrimental
+   - 
 
 ### Verb
 
@@ -1238,8 +1284,10 @@ $$
   - scold (上对下的数落)
   - rebuke (上对下的责备)
   - denounce (= condemn)
+  - deplore
   - animadvert
   - censure
+  - **diatribe**
   - reproach (责备他人的粗心、自私等)
   - reprove (责骂)
   - reprimand (责难)
@@ -1293,13 +1341,23 @@ $$
    - negotiate (商谈)
    - confer (交换意见)  协商；授予
    - consult (咨询)
-- damage (reduce)
+- damage
    - impair
    - compromise 折中妥协，危害
    - blight
    - mar
    - ruin
    - deteriorate
+- reduce
+   - dwindle
+   - contract
+   - abate
+   - decline
+   - diminish
+   - wane
+   - decrease
+   - lessen
+   - minify
 - end
   - break (非正式，休息)
   - rest
@@ -1319,7 +1377,16 @@ $$
    - neglect
    - overlook
    - elide (发音省略)
-- respect
+- disdain (鄙视)
+   - hate
+   - detest
+   - disparage (轻视)
+   - n.
+      - contempt
+      - derision
+      - disregard
+      - mockery
+- respect  [respectful](#respectful) <a name=respect></a>
    - esteem
    - revere
    - admire
@@ -1328,6 +1395,7 @@ $$
    - regard (正式，中性)
    - deference(n.尊敬)
    - awe (n.敬畏)
+   - 
 - indicate, forecast 预测
 
    - presage
@@ -1348,6 +1416,7 @@ $$
    - misinform
    - mislead
    - trick
+   - duplicity (n.)
 - pretend 掩饰 假装
    - dissemble
    - feign
@@ -1388,15 +1457,15 @@ $$
    - moderate (缓和)
    - alleviate (缓和)
    - inhibit (减缓)
-   - 
 - prove 证实  [suspicious](#suspicious) <a name='prove'></a>
    - corroborate
    - confirm
    - affirm
    - certify
    - correspond
-   - jibe with
-   - admit 承认
+   - corroborate
+   - jibe with (与...一致)
+- admit 承认
    - confess
    - concede (让步)
    - grant 授予
@@ -1426,7 +1495,11 @@ $$
    - gather
    - judge
    - reason
-- 
+   - conjecture
+- compose 组成
+   - comprise
+   - consist of
+   - constitute
 
 ### Noun
 
@@ -1628,19 +1701,25 @@ $$
 
 > hence, ....
 
+**thereby**	因此
+
+> 
+
 **whilst**  同时
 
 > = at the meantime
 
 ### Double Negative
 
-it is wrong / presumptuous / foolish   to say that ...
+**it is** wrong / presumptuous / foolish   **to say that** ...
 
 paradoxical / ironical /puzzling/ ...
 
 far from... / instead of .../
 
 hardly / seldom
+
+ **nothing less than  不亚于，完全是** 
 
 
 
@@ -2955,7 +3034,31 @@ tailor
 
 
 
+### 11.14
 
+**in the course of 	在...期间**
+
+cause	事业
+
+elaborate on		详细说明
+
+predominate		主导的
+
+providential			幸运的，神助的
+
+tumultuous			混乱的
+
+dispassionate			冷静的，中立的
+
+imperceptible	 =		incognizable
+
+orthodox = conventional
+
+original = innovative
+
+**exacerbate** = worsen
+
+susceptible				易受影响的
 
 
 
