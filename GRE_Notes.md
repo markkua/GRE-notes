@@ -1009,7 +1009,7 @@ $$
   - pessimistic	悲观的
   - passive 消极的
   - equivocal 黑暗的
-  - adverse  负面的
+  - **adverse**  负面的
   - harmful
      - pernicious 
      - deleterious
@@ -3059,6 +3059,34 @@ original = innovative
 **exacerbate** = worsen
 
 susceptible				易受影响的
+
+
+
+### 11.15
+
+reinforce		加强
+
+recondite		高深的
+
+intimately linked	=	inseparable
+
+pathetic			悲伤的
+
+omission		省略n.
+
+vitality			活力
+
+moisture   -   precipitation 
+
+feign	=	pretend
+
+miss out on		错过
+
+**credit with			归功于**
+
+
+
+
 
 
 
