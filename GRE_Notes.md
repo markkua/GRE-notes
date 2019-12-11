@@ -296,6 +296,12 @@
 | commend                                  | comment        |
 | covert                                   | covet          |
 | eclipse                                  | ellipse        |
+| diagnose                                 | diagonal       |
+| distinguish                              | extinguish     |
+| heterodox                                | orthodox       |
+| scarce                                   | scare          |
+| sever                                    | server         |
+| disinterested                            | disinterest    |
 
 
 
@@ -355,6 +361,7 @@
 | intersect                                     | 相交                                     |                     |
 | skew                                          | 斜交                                     |                     |
 | inscribed                                     | 内接于                                   |                     |
+| **congruent**                                 | **全等的**                               |                     |
 | **triangles**                                 | **三角形**                               |                     |
 | **isosceles**                                 | 等腰的                                   | ```/aɪ'sɒsɪliːz/``` |
 | **equilateral**                               | 等边的                                   |                     |
@@ -381,7 +388,7 @@
 | ratio                                         | 比例                                     |                     |
 | proportion                                    | 比例                                     |                     |
 | normal distribution                           | 正态分布                                 |                     |
-| stochastic                                    | 随机的[数]                               |                     |
+| **stochastic**                                | 随机的[数]                               |                     |
 | estimate                                      | 估计                                     |                     |
 | expectation                                   | 期望                                     |                     |
 | population                                    | 总体                                     |                     |
@@ -435,10 +442,10 @@ intercalary year(leap year) 闰年(366天)　 common year 平年(365天)　 depr
 ### Polygons
 
 - three: triangle
-	- isosceles, equilateral, right 
+	- isosceles, equilateral, right, congruent
 - four: quadrangle / quadrilateral
-	- square, ractangle
-	- trapezoid
+	- square, rectangle
+	- trapezoid, parallelogram
 - five:  pentagon
 - six: hexagon
 - seven: heptagon
@@ -652,6 +659,8 @@ intercalary year(leap year) 闰年(366天)　 common year 平年(365天)　 depr
 <img src="http://www.kebingxin.com:9000/imgs/gre/math1.png" style="zoom:70%;" />
 
 > 大于0小于0
+>
+> 大于1小与1
 
 <img src="http://www.kebingxin.com:9000/imgs/gre/math2.png" style="zoom:70%;" />
 
@@ -947,7 +956,7 @@ $$
 | humidity          | 湿度                   |        |
 | Celsius degree    | 摄氏度```/'selsiəs/``` |        |
 | Fahrenheit degree | 华氏度                 |        |
-| lumina | 流明 |        |
+| Lumina | 流明 |        |
 |  | | |
 | diffraction       | 衍射                   |        |
 | interference      | 干涉                   |        |
@@ -994,7 +1003,7 @@ $$
 
 # Synonyms
 
-### Adjective
+### Adjective 
 
 - affirmative
   - salutary	有益的
@@ -1003,21 +1012,35 @@ $$
   - salubrious 有益的
   - sanguine 乐观的
   - propitious 有利的，吉祥的
-  - advocate  v.支持
-  - approbate v.支持
+  - auspicious 吉祥的，有前途的
+  - tonic 有益的
+  - supportive
+  	- espouse v.支持
+  	- advocate  v.支持
+  	- approbate v.支持
+  
 - negative
   - pessimistic	悲观的
   - passive 消极的
-  - equivocal 黑暗的
   - **adverse**  负面的
   - harmful
      - pernicious 
      - deleterious
   - opposite
      - antithetical
+     - object (v.)
   - bad
      - egregious
-     - 
+  - wrong
+     - errant (错误的)
+     - erroneous
+     - fallacious
+     - absurd
+     	- ridiculous
+     	- ludicrous
+     	- preposterous
+     	- outlandish
+  
 - for description
    - apposite                贴切的
       - pertinent
@@ -1025,36 +1048,57 @@ $$
       - germane
       - felicitous
       - objective 客观的
+      - opportune 适当的
    - improper
       - inapposite
    - exaggerated  夸张的
+   - discrepant  不同的
+   
 - everywhere
   - **ubiquitous**
   - pervasive
   - universal
+  - omnipresent
+  
 - necessary
    - required
    - requisite
    - compulsory
+   - obligatory (必须的)
    - imperative (急需的)
    - indispensable
    - imperative (迫切的)
+   
 - important
   
    - obligatory (必要的，必修)
    - important (重要的)
    - pivotal
+   
+- minor
+
+   - trivial
+   - trifling
+   - inconsequential
+   - immaterial
+   - petty
+   - paltry
+
 - long-standing
    - perennial (常年)
    - permanent (永久)
+   - perpetual
    - durable
    - lasting
    - continuing
    - continual
-   - perpetual
+   - immortal
+   - immutable
+   
 - mannish
   
   - masculine
+  
 - hostile
 
    - adversarial
@@ -1062,18 +1106,34 @@ $$
    - belligerent
    - antagonistic
    - inimical
+   - truculent
+   
 - economic
    - fiscal (会计的)
    - pecuniary (金钱的)  => impecunious 穷困   vs.    peculiar 特别的
    - monetary
    - financial
+   
 - fair 公平的
    - impartial
    - disinterested
    - dispassionate
    - detached
-   - indifferent
+   - indifferent (公平，冷漠的)
    - even-handed
+   
+- tepid 冷漠的
+
+   - bland
+   - halfhearted
+   - lukewarm
+   - apathetic
+   - indifferent (公平，冷漠)
+   - offhand
+   - disinterest (n. 冷漠)
+   - unfeeling
+   - nonchalant
+
 - similar
    - alike
    - resemble
@@ -1081,6 +1141,9 @@ $$
    - affinity (n. 吸引力，相似性，密切关系)
    - comparable
    - parallel
+   - kindred (同类的)
+   - affiliated (相关的)
+   
 - same
    - identical
    - corresponding
@@ -1088,6 +1151,7 @@ $$
    - isotropous
    - congruent
    - uniform
+   
 - good(nice, kind)
   
   - kind
@@ -1095,10 +1159,30 @@ $$
   - benevolent
   - perfect
   - consummate
-- hardworking 勤奋的
+  - genial
   
+- easy-to-get-angry
+  - choleric
+  - irritable
+  - peevish
+  - fractious
+  - irascible
+  - prickly
+  - testy
+  - fiery
+  - petulant
+  - surly
+  - snappish
+  - cantankerous
+  - restive
+  
+- hardworking 勤奋的
   - diligent
   - assiduous
+  - industrious
+  - laborious
+  - painstaking
+  
 - **smart** 
   
   - bright (口，机灵)
@@ -1107,49 +1191,47 @@ $$
   - intelligent (正式)
   - deft (灵巧的，机敏的)
   - apt
+  - nimble
+  - erudite (机敏)
   - perceptive (洞察力强)
   - acute (敏锐，洞察力强)
+  - subtle (敏锐，敏感的)
   - shrewd (精明老练)
+  - keen (敏锐的)
   - astute (精明)
+  - prudent (精明谨慎的)
   - adroit (精明，熟练)
   - dexterous (熟练的)
   - crafty (贬，狡猾)
   - canny (精明狡猾)
   - artful (机灵的)
+  - tactful (机智的)
   - wily (狡猾的)
   - sophisticate (世故老练的)
   - worldly-wise
   - (n.)acumen
+  
 - creative
    - ingenious (暗示创造发明才能)
    - originative (有创作力的)
    - adroit (熟练的，灵活的)  be adroit at ...
+   
 - excellent
    - salient
-   
    - extraordinary
-   
    - outstanding
-   
    - prominent
-   
    - distinguished
-   
    - exceeding
-   
    - exceptional
-   
    - prodigious (异常的，惊人的)
-   
    - surpassing
-   
    - stunning 极好的
-   
+   - sterling
    - eminent (出名的)
-   
    - terrific 极大的，了不起的
-   
    - 
+   
 - difficult-to-understand
    - arcane
    - abstract
@@ -1159,8 +1241,10 @@ $$
    - **convoluted**
    - involved
    - obscure
+   - occult
    - impenetrable
    - enigmatic
+   - recondite
    - elliptical (隐晦的)
    - enigmatic (神秘，难懂)
    - profound (深刻，深奥)
@@ -1169,72 +1253,116 @@ $$
    - obfuscated (混淆的)
    - murky (含糊不清)
    - equivocal (模棱两可)
+   - evasive (含糊其辞的)
    - ambiguous (模糊不清模棱两可)
    - inscrutable (不可理解的，谜一样的)
+   - unfathomable (不可理解的)
+   - perplexing (令人困惑的)
+   - tortuous (曲折冗长复杂的)
    - conundrum  n.(很难搞懂的问题)
+   - riddle (n. 谜团)
+   
 - clear
    - lucid
    - intelligible
    - pellucid
    - explicit
    - unambiguous
+   - limpid
    - comprehensible v.
    - articulate
    - enunciate
    - blunt (直言不讳的)
+   
 - different 不同的
    - disparate
-   - dissimilor
+   - dissimilar
    - discordant
    - discrepant
    - divergent
    - heterogeneous
+   
 - tedious
-   - verbose
    - arid
    - bland
    - diffuse
    - dreary
    - dull
+   - prolix
+   - prosaic
+   - longwinded
+   - insipid (平淡无味的)
+   - jejune
+   - insipid
+   - verbose
+   - loquacious (喋喋不休的)
+   
 - mixed
    - heterogeneous
    - assorted
    - inhomogeneous
    - miscellaneous
    - motley
+   
 - missing-old-things
    - nostalgic 怀旧的
    - retrospective (回溯的)
+   
 - suspicious 可疑的 [prove](#prove)<a name="suspicious"></a>
    - skeptical
    - dubious
    - apocryphal
+   
 - recalcitrant 桀骜不驯的
    - pretentious	自命不凡的
    - haughty		傲慢的  (类比  pride)
    - pejorative	轻蔑语(n.)，轻蔑的(adj.)
    - contemptuous 鄙视的轻蔑的
-- easy-change 善变
+   
+- changeable 善变
    - mercurial
    - capricious
+   - fickle
+   - variable
+   - skittish
+   - mercurial
+   - volatile
+   - wayward (任性难以捉摸)
+   
+- consistent
+
+   - constant
+   - insistent
+   - continual
+   - unremitting
+   - assiduous
+   - dogged
+   - persevere
+   - persistent
+   - relentless
+
 - abnormal
   
    - aberrant
-- plentiful
+   
+- plentiful, enough
    - abundant
    - ample 满足需要且有余
    - considerable
    - appreciable
    - respectable
+   - opulent
    - sizable(sizeable)
+   - profuse
    - hefty 大量，健壮
-- enough
-
+   - surfeit (n. 过多)
+   
    - sufficient (正式)
    - adequate (数量上够)
    - decent
    - ample
    - affluent (丰富，富裕)
+   
 - inadequate
 
    - insufficient
@@ -1243,14 +1371,23 @@ $$
    - devoid
    - deficient
    - depleted
+   - scanty
+   - scant
+   - scarce
+   - meager
+   - exiguous
+   - wanting
+   
 - abstemious	节制的	
 
    - abstinent
+   
 - continuous 连续的
    - successive
    - constant
    - persistent
    - continual
+   
 - obvious
    - obtrusive
    - apparent
@@ -1260,16 +1397,25 @@ $$
    - plain
    - distinct
    - conspicuous
+   
 - respectful [respect](#respect)<a name=respectful></a>
    - deferential
    - complaisant
    - obedient
    - reverential
    - submissive
+   
 - harmful
    - deleterious
    - detrimental
-   - 
+   
+- poisonous
+   - toxic
+   - noxious
+   - pernicious
+   - baneful
+   - **deleterious**
+   - **detrimental**
 
 ### Verb
 
@@ -1288,12 +1434,16 @@ $$
   - animadvert
   - censure
   - **diatribe**
+  - impugn (指责质疑)
+  - opprobrium (谴责)
   - reproach (责备他人的粗心、自私等)
   - reprove (责骂)
   - reprimand (责难)
+  - reprehend (斥责责备)
   - decry (公开反对，谴责)
   - admonish  (警告，责备，劝告)
   - castigate (严厉斥责)
+  - lambaste (严厉斥责)
   - chide ```/tʃaɪd/```
   - indict (起诉控告)
 - defame 诽谤
@@ -1312,6 +1462,7 @@ $$
    - maintain
    - testify
    - assert
+   - purport
 - refute
   
    - refute (语气强) 驳斥
@@ -1328,15 +1479,31 @@ $$
    - deny 拒绝
    - reject 拒绝
    - decline (谢绝邀请)
+   - rebuff
+   - spurn
 - prevent 阻止禁止
-   - inhibit (减缓)
+   - deter
+   - inhibit
+   - prohibit
    - block
    - bar
    - hinder
+   - impede
    - obstruct
    - hamper
-   - restrain
    - contain
+   - occlude
+   - restrict
+   - restrain
+   - confine
+   - prevent
+   - preclude
+   - throttle
+   - hedge
+   - shackle
+   - stymie
+   - surmise
+   - trammel
 - discuss
    - negotiate (商谈)
    - confer (交换意见)  协商；授予
@@ -1348,6 +1515,8 @@ $$
    - mar
    - ruin
    - deteriorate
+   - undercut
+   - undermine
 - reduce
    - dwindle
    - contract
@@ -1358,25 +1527,39 @@ $$
    - decrease
    - lessen
    - minify
+   - wane
+   - curtail (删减)
+   	- truncate 
+   	- prune
 - end
   - break (非正式，休息)
   - rest
   - pause (暂停)
+  	- respite (暂停，暂缓)
   - interval (间歇)
   - recess (正式，休息)
   - cease (正式，结束)
   - stop (终止)
+  - quash (镇压，平息)
+  - stagnate 停滞
+  - standstill (n.停止,停顿)
 - disappear, destroy
-
    - annihilate (消失，毁灭)
    - vanish (消失)
    - dissolve
+   - mash
+   - wreck
+   - obliterate
+   - pulverize
+   - raze
+   - put to rest
 - ignore 忽略
    - omission (n.)
    - disregard
    - neglect
    - overlook
-   - elide (发音省略)
+   - elide (发音的省略)
+   - languish (被忽视；衰弱折磨)
 - disdain (鄙视)
    - hate
    - detest
@@ -1386,6 +1569,9 @@ $$
       - derision
       - disregard
       - mockery
+   - adj.
+      - pejorative
+      - contemptuous
 - respect  [respectful](#respectful) <a name=respect></a>
    - esteem
    - revere
@@ -1393,9 +1579,17 @@ $$
    - venerate
    - honour (美式honor)
    - regard (正式，中性)
+   - venerate
    - deference(n.尊敬)
    - awe (n.敬畏)
-   - 
+   - honorific (adj.表示尊敬的)
+   - obeisance (n.尊敬)
+- praise
+   - eulogize
+   - extol
+   - exalt
+   - laud
+   - encomium n.
 - indicate, forecast 预测
 
    - presage
@@ -1409,13 +1603,27 @@ $$
    - forebode (对不祥之事)
    - presentiment (n. 对不祥之事)
    - precognition (n.)
+   - prophetic (adj.预言的)
+   - prescient (adj. 预言的)
+   - prognostic (adj. 预言的)
+- absorb
+   - incorporate
+   - assimilate
+   - integrate
+   - merge
+   - consolidate
+   - imbibe
 - cheat
    - beguile
    - deceive
+   - deceit
    - victimize
    - misinform
    - mislead
    - trick
+   - swindle
+   - fraud
+   - skullduggery (n. 舞弊)
    - duplicity (n.)
 - pretend 掩饰 假装
    - dissemble
@@ -1446,6 +1654,7 @@ $$
    - ameliorate
    - boost
    - perfect (v.)
+   - hone (磨砺，提升)
    - augment (v, n，增强，扩大)
    - ameliorate (改善,positive)
    - meliorate (通ameliorate)
@@ -1457,6 +1666,7 @@ $$
    - moderate (缓和)
    - alleviate (缓和)
    - inhibit (减缓)
+   - palliate (缓和)
 - prove 证实  [suspicious](#suspicious) <a name='prove'></a>
    - corroborate
    - confirm
@@ -1492,14 +1702,28 @@ $$
 
    - deduce
    - conclude
+   - extrapolate
    - gather
    - judge
    - reason
    - conjecture
+   - speculate
 - compose 组成
    - comprise
    - consist of
    - constitute
+- give up
+   - rationale
+   - yield (投降)
+- circumvent
+   - shun
+   - eschew
+   - evade
+   - sidestep
+   - skirt
+   - circumvent
+   - dodge
+   - shy away
 
 ### Noun
 
@@ -1708,6 +1932,8 @@ $$
 **whilst**  同时
 
 > = at the meantime
+
+**erstwhile**  之前的
 
 ### Double Negative
 
@@ -3085,6 +3311,50 @@ miss out on		错过
 **credit with			归功于**
 
 
+
+### 11.16
+
+rally behind		支持，拥护
+
+coalesce around	聚集
+
+iconoclastic	打破传统的		=		heterodox	异端的
+
+adopt herding		畜牧
+
+tillage					农耕
+
+foraging				采摘、寻找资源
+
+panacea	=	cure-all		万能药
+
+cursory	=	perfunctory	敷衍的
+
+virtuoso				艺术家
+
+composite	=	compound		合成的
+
+villa				别墅
+
+proliferate		激增
+
+opulent			大量的
+
+eclectic			折衷的
+
+opponent		对手
+
+oratorical	=	rhetorical			演讲的
+
+comb through		仔细检查、搜查
+
+**perceive**			觉察
+
+impetus			动力
+
+blunt					迟钝的，直率的
+
+entity							实体
 
 
 
